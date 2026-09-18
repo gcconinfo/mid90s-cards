@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T23:47+09:00",
+ "generated_at": "2026-09-19T03:43+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -21,7 +21,7 @@
    "status": "approved",
    "type": "C",
    "kicker": "大阪のセレクトショップと、9月10日発売",
-   "summary": "キャロウェイアパレルと大阪のゴルフセレクトショップCLUBHAUSのコラボ第3弾。1990年代の名器「BIG BERTHA」がモチーフ。",
+   "summary": "キャロウェイアパレルと大阪のゴルフセレクトショップCLUBHAUS（2017年創設、スローガンは「WE SUPPORT AMATEURS」）のコラボ第3弾。1990年代にクラブの歴史を変えた名器「BIG BERTHA」のグラフィックと当時のキャロウェイロゴをモチーフに、コーチジャケット37,400円、スウェットパーカー22,000円、モックネックシャツ18,700円、バケットハット8,800円、スタンドバッグ71,500円などを展開。9月10日から一般発売、9月9日17時から青山店・心斎橋店で先行発売。販売はキャロウェイ公式オンラインストアとCLUBHAUS。日本で買える。",
    "post_date": "2026-09-19",
    "post_time": "21:00",
    "source_name": "PR TIMES（キャロウェイゴルフ）",
@@ -29,8 +29,8 @@
    "found_on": "2026-09-15",
    "mode": "photo",
    "headline_photo": "キャロウェイ×CLUBHAUS\n90年代ビッグバーサ柄",
-   "error": "",
-   "updated_at": "2026-09-15T10:00:05.719Z"
+   "updated_at": "2026-09-15T10:00:05.719Z",
+   "n_images": 3
   },
   {
    "id": "20260915-19",
@@ -39,7 +39,7 @@
    "status": "approved",
    "type": "D",
    "kicker": "9月8日、ニュージャージー連邦破産裁判所",
-   "summary": "LIVゴルフが9月8日、連邦破産法11条を申請。PIFがDIP融資を提供、選手が過半数オーナーになる形で2027年再開を目指す。",
+   "summary": "LIVゴルフが9月8日、ニュージャージー地区の連邦破産裁判所に連邦破産法11条（チャプター11）の適用を申請した。サウジのPIFが裁判所の承認を条件に4,960万ドルのDIP融資を提供し、ロンドンの投資会社BCパートナーズなどが出口資金を担う見込み。ジョン・ラーム、ブライソン・デシャンボー、ダスティン・ジョンソン、キャメロン・スミスが無担保債権者として記載。CEOのスコット・オニールは「画期的な取引を追求し、次の章を始めるための構造と時間を得る」と説明し、選手が過半数オーナーとなる形で2027年早期の再開を掲げる。新形式は75人フィールド、カット導入、月曜予選などの新たな出場経路で、豪州、南アフリカ、メキシコ、英国、香港、米国での開催を計画。PIFは2026年4月に資金提供停止を決めていた。",
    "post_date": "2026-09-19",
    "post_time": "23:00",
    "source_name": "Golf Channel",
@@ -47,8 +47,8 @@
    "found_on": "2026-09-15",
    "mode": "photo",
    "headline_photo": "LIVゴルフが破産法申請\n次は選手がオーナーに",
-   "error": "",
-   "updated_at": "2026-09-15T13:21:39.556Z"
+   "updated_at": "2026-09-15T13:21:39.556Z",
+   "n_images": 1
   },
   {
    "id": "20260914-02",
@@ -63,8 +63,8 @@
    "source_name": "Australian Golf Digest",
    "source_url": "https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/",
    "found_on": "2026-09-14",
-   "error": "",
-   "updated_at": "2026-09-15T13:53:37.807Z"
+   "updated_at": "2026-09-15T13:53:37.807Z",
+   "n_images": 0
   },
   {
    "id": "20260916-04",
@@ -73,14 +73,13 @@
    "status": "approved",
    "type": "D",
    "kicker": "BMW PGA選手権プロアマ、9月16日",
-   "summary": "BMW PGA選手権のセレブリティ・プロアマ。ガレス・ベイル（ハンデ1.1）はルドビグ・オーバーグの組。",
+   "summary": "9月16日（水）、ウェントワース西コースで行われるBMW PGA選手権のセレブリティ・プロアマ。40人のツアープロがそれぞれ3人のアマとチームを組み、7時30分と13時のショットガンスタート。ガレス・ベイル（ハンデ1.1）はルドビグ・オーバーグの組で、ジョー・ハート（10.6）、クリケットのブライアン・ララ（5.0）が一緒。ロバート・マッキンタイアはロビー・ファウラー（4.2）、エデン・アザール（18.0）、ジョン・テリー（5.9）と、マキロイはクリケットのスチュアート・ブロード（4.6）らと、ジャスティン・ローズはマクラーレンのザク・ブラウン（14.0）と回る。テリーは5回目、ファウラーは3年連続、アザールは初出場。",
    "post_date": "2026-09-20",
    "post_time": "23:00",
    "source_name": "DP World Tour",
    "source_url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/tee-times-and-celebrities-for-2026-bmw-pga-championship-pro-am/",
    "found_on": "2026-09-16",
    "mode": "photo",
-   "n_images": 2,
    "headline_photo": "ベイル、ハンデ1.1\nオーバーグと同じ組で",
    "video": {
     "credit": "DP World Tour",
@@ -90,8 +89,8 @@
     "start": 0,
     "url": "https://www.youtube.com/watch?v=OBX_WfCeuOs"
    },
-   "error": "",
-   "updated_at": "2026-09-16T08:59:28.585Z"
+   "updated_at": "2026-09-16T08:59:28.585Z",
+   "n_images": 2
   },
   {
    "id": "20260916-06",
@@ -100,7 +99,7 @@
    "status": "approved",
    "type": "B",
    "kicker": "ミネソタ、バッド・パンツ・オープン",
-   "summary": "FOX 9の気象予報士イアン・レナードが主催する「バッド・パンツ・オープン」が20回目。",
+   "summary": "FOX 9の気象予報士イアン・レナードが主催する「イアン・レナード・バッド・パンツ・オープン」が9月15日、ミネソタ州メープルグローブのラッシュクリークGCで20回目を迎えた。参加者はいちばん派手で変なパンツ（ニッカボッカ、キルト、スカートも可）で出場し、ウェアとチームスピリットに賞が出る。午前はPGAプロとスペシャルオリンピックスのアスリートがベストボール、午後は18ホールのスクランブル（12時30分ショットガン）。今年は完売、昨年は10万ドル超をスペシャルオリンピックス・ミネソタに寄付した。受益はスペシャルオリンピックス・ミネソタとPGA REACHファウンデーション・ミネソタ。写真1枚目はFOX 9の映像の静止画、2〜3枚目はミネソタPGAセクションのサイトにある過去大会の写真。",
    "post_date": "2026-09-21",
    "post_time": "21:00",
    "source_name": "FOX 9",
@@ -108,8 +107,8 @@
    "found_on": "2026-09-16",
    "mode": "photo",
    "headline_photo": "ダサいパンツで20年\n10万ドル超のチャリティ",
-   "error": "",
-   "updated_at": "2026-09-16T08:59:44.131Z"
+   "updated_at": "2026-09-16T08:59:44.131Z",
+   "n_images": 3
   },
   {
    "id": "20260916-09",
@@ -118,7 +117,7 @@
    "status": "approved",
    "type": "B",
    "kicker": "GDOルールQ&A",
-   "summary": "フェアウェイで2人の球が衝突。GDOのルールQ&Aの答えは無罰でそのまま。",
+   "summary": "フェアウェイとラフに分かれた2人が、お互いに自分の番だと思って同時に打ち、球同士がフェアウェイでぶつかった。GDOのルールQ&Aの答えは、無罰でそのままプレー。ジェネラルエリアで動いている球が動いている球（外的影響）に当たっても両者に罰はなく、止まった場所からあるがままに打つ（規則11.1a、11.1b）。2019年の規則改正以降は、安全を確認した上で先に打つ「レディーゴルフ」も推奨されている、という補足つき。記事の画像はイラストのためテキスト型。",
    "post_date": "2026-09-21",
    "post_time": "23:00",
    "source_name": "GDO",
@@ -126,8 +125,8 @@
    "found_on": "2026-09-16",
    "mode": "text",
    "headline_photo": "同時に打った球が衝突\n処置は「そのまま」",
-   "error": "",
-   "updated_at": "2026-09-16T08:59:55.713Z"
+   "updated_at": "2026-09-16T08:59:55.713Z",
+   "n_images": 0
   },
   {
    "id": "20260916-10",
@@ -136,7 +135,7 @@
    "status": "approved",
    "type": "C",
    "kicker": "9月15日発売、米・加・欧",
-   "summary": "Fableticsがケビン・ハートとゴルフコレクション19型を発売。",
+   "summary": "米アクティブウェアのFableticsが、長年のパートナーであるコメディアンのケビン・ハートとゴルフコレクション「Kevin Hart x Fabletics」を9月15日に発売。メンズ・ウィメンズ計19型で価格は29.95〜164.95ドル、サイズはXXS〜4X。色はブラック、ホワイト、カーキ、グリーン。メンズはポロ、クルーザージャケット、ゴルフショーツ、クォータージップフーディ、ジョガー。ウィメンズはハイウエストレギンス、スカート、ブラ内蔵タンク、ミニドレス。ハートの新しいシグネチャーロゴが初登場し、妻のエニコとビジネスパートナーのロン・\"ボス\"・エバーラインが出演するキャンペーン「Get Your Hart-On」も。販売はFableticsのサイトと米・カナダ・欧州の135店舗以上で、日本での販売の記載はなし。写真が取得できずテキスト型。",
    "post_date": "2026-09-22",
    "post_time": "21:00",
    "source_name": "GlobeNewswire",
@@ -144,8 +143,8 @@
    "found_on": "2026-09-16",
    "mode": "text",
    "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
-   "error": "",
-   "updated_at": "2026-09-16T13:03:35.170Z"
+   "updated_at": "2026-09-16T13:03:35.170Z",
+   "n_images": 0
   },
   {
    "id": "20260914-10",
@@ -154,14 +153,14 @@
    "status": "approved",
    "type": "C",
    "kicker": "9月11日発売、MT10とMT2",
-   "summary": "ソウル発のゴルフ系カジュアルブランドsunlovetourとニューバランスの2度目のコラボ「SOFT UTILITY: MINIMUS」。",
+   "summary": "ソウル発のゴルフ系カジュアルブランドsunlovetourとニューバランスの2度目のコラボ「SOFT UTILITY: MINIMUS」。MT10はバーガンディのスエード×メッシュにアイスブルーの靴紐、MT2はメッシュ×サテン地にVibramソールでアースブラウン。9月11日にsunlovetourオンラインと漢南・聖水の直営店で発売。価格は未定表記、日本展開の記載なし。",
    "post_date": "2026-09-22",
    "post_time": "23:00",
    "source_name": "Hypebeast",
    "source_url": "https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info",
    "found_on": "2026-09-14",
-   "error": "",
-   "updated_at": "2026-09-16T13:26:55.359Z"
+   "updated_at": "2026-09-16T13:26:55.359Z",
+   "n_images": 0
   },
   {
    "id": "20260918-02",
@@ -170,7 +169,7 @@
    "status": "approved",
    "type": "B",
    "kicker": "KLPGA大会で初公開、韓国イチョンCC",
-   "summary": "韓国発「ゴルフロボット8」がKLPGAツアーで初公開。AIがスイングを分析しロボットが再現。",
+   "summary": "韓国のゴルフロボット8社が5年がかりで開発した「ゴルフロボット8」が、9月10〜13日に京畿道イチョンのブラックストーン・イチョンCCで開かれたKLPGAツアーで初公開された。カメラでスイングを撮影し、AIが解析した軌道を多関節ロボットで再現する。フック、ドロー、フェード、スライスなど球筋も再現できる。",
    "post_date": "2026-09-23",
    "post_time": "21:00",
    "source_name": "グローバルエコノミック",
@@ -178,8 +177,8 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "AIがスイング再現\n韓国発ゴルフロボット",
-   "error": "",
-   "updated_at": "2026-09-18T03:45:38.504Z"
+   "updated_at": "2026-09-18T03:45:38.504Z",
+   "n_images": 2
   },
   {
    "id": "20260918-03",
@@ -188,7 +187,7 @@
    "status": "approved",
    "type": "C",
    "kicker": "前作完売、9月18日発売",
-   "summary": "本間ゴルフ×パトリックのコラボ第2弾が発売。",
+   "summary": "本間ゴルフとフランスのスニーカーブランド、パトリックのコラボ第2弾が9月18日発売。前作のミニトートバッグは発売から約3カ月で完売した。キャディバッグはスタンドからカート型に変更、トートバッグは大型化。カラーはネイビーとホワイトの2色。",
    "post_date": "2026-09-23",
    "post_time": "23:00",
    "source_name": "本間ゴルフ",
@@ -196,8 +195,8 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
-   "error": "",
-   "updated_at": "2026-09-18T03:45:43.380Z"
+   "updated_at": "2026-09-18T03:45:43.380Z",
+   "n_images": 3
   }
  ],
  "new": [
@@ -208,12 +207,13 @@
    "status": "new",
    "type": "B",
    "kicker": "中国発、韓国・日本でも販売開始",
-   "summary": "中国発の芝刈りロボット「Boulder F1」が中韓日で販売開始。",
+   "summary": "中国のスタートアップ、ライフェンロボットが開発したフェアウェイ用自動芝刈りロボット「Boulder F1」が、中国・韓国・日本で販売開始。作業幅1.55m、重さ約1トン。RTKやカメラ、ライダーを組み合わせ、バンカーや切り株などの障害物を認識しながら夜間も自律走行し、7〜8時間連続で作業できる。",
    "source_name": "電子新聞（etnews）",
    "source_url": "https://www.etnews.com/20260916000342",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "芝刈りロボットが\n夜間も自律走行"
+   "headline_photo": "芝刈りロボットが\n夜間も自律走行",
+   "n_images": 2
   },
   {
    "id": "20260918-06",
@@ -222,12 +222,13 @@
    "status": "new",
    "type": "D",
    "kicker": "ル・ゴルフ・ナショナル、9月再開",
-   "summary": "パリ五輪会場のル・ゴルフ・ナショナルが地下鉄工事で大改修、再開。",
+   "summary": "2018年ライダーカップ、2024年パリ五輪の会場、ル・ゴルフ・ナショナルのアルバトロスコースが9月1日に再開した。パリの地下鉄新路線建設のため2024年10月から休場、4・5・6番の3ホールを設計し直し、グリーンや池の縁も改修。芝はベントグラスに張り替えた。9月24〜27日にはフレンチオープンが戻る。",
    "source_name": "Golf Course Architecture",
    "source_url": "https://www.golfcoursearchitecture.net/content/le-golf-national-to-reopen-albatros-course-in-september-2026-following-paris-metro-driven-redesign",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "五輪会場が\n地下鉄工事で大改修"
+   "headline_photo": "五輪会場が\n地下鉄工事で大改修",
+   "n_images": 1
   },
   {
    "id": "20260918-05",
@@ -236,12 +237,13 @@
    "status": "new",
    "type": "B",
    "kicker": "韓国・光明市のオフィスビル",
-   "summary": "韓国で「発砲事件」と通報されたのはゴルフボールだった。",
+   "summary": "9月7日、韓国・京畿道光明市のオフィスビルで、約20メートル離れた別のビルからゴルフの素振り中に放たれた打球が窓を割った。翌8日、向かいのビルの住人が丸い穴を見つけ発砲と勘違いして通報。警察が確認しゴルフボールと判明、けが人はなく示談で終わった。",
    "source_name": "ソウル経済新聞",
    "source_url": "https://en.sedaily.com/society/2026/09/15/suspected-gunshot-at-korean-building-turns-out-to-be-golf",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "窓を割ったのは\n弾丸ではなくゴルフ球"
+   "headline_photo": "窓を割ったのは\n弾丸ではなくゴルフ球",
+   "n_images": 1
   },
   {
    "id": "20260918-04",
@@ -250,12 +252,13 @@
    "status": "new",
    "type": "C",
    "kicker": "9月26日発売、ワニ×ハリネズミ",
-   "summary": "ラコステと大阪のセレクトショップCLUBHAUSが限定コラボ。",
+   "summary": "ラコステと大阪のセレクトショップCLUBHAUSのコラボが9月26日、直営店で発売。ラコステのワニがCLUBHAUSのキャラクター「Wedgehog」をくわえる限定グラフィックが特徴。ニットベストやポロシャツ、キャップなど計6型。オンラインストアは9月29日発売。",
    "source_name": "ラコステ ジャパン（PR TIMES）",
    "source_url": "https://prtimes.jp/main/html/rd/p/000000254.000007377.html",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "ラコステが\n大阪の名店とコラボ"
+   "headline_photo": "ラコステが\n大阪の名店とコラボ",
+   "n_images": 3
   },
   {
    "id": "20260917-10",
@@ -264,12 +267,13 @@
    "status": "new",
    "type": "B",
    "kicker": "ダンロップ、限定発売",
-   "summary": "ゼクシオが2027年干支「未」の限定ボールを発売。",
+   "summary": "ダンロップスポーツマーケティングが「XXIO HYPER RD」に、2027年の干支・未（ひつじ）をモチーフにした限定ボールを9月12日に数量限定発売。ボールには「1」「7」「8」「2027」のオリジナルナンバーと、金色の羊のデザインを施した。価格は1ダース7,590円、半ダース3,795円。名入れにも対応し、年末年始の贈答品やコンペ賞品向けとしている。",
    "source_name": "住友ゴム工業（ATPRESS）",
    "source_url": "https://www.atpress.ne.jp/news/5731236",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "2027年干支ボール\nゼクシオ「未」限定発売"
+   "headline_photo": "2027年干支ボール\nゼクシオ「未」限定発売",
+   "n_images": 1
   },
   {
    "id": "20260917-09",
@@ -278,12 +282,13 @@
    "status": "new",
    "type": "C",
    "kicker": "ランバンスポール秋冬アンバサダー",
-   "summary": "反町隆史がランバンスポールの新アンバサダーに。",
+   "summary": "デサントジャパンが展開するゴルフウェアブランド「ランバンスポール」が、2026年秋冬シーズンより俳優の反町隆史をアンバサダーに起用すると発表。「ランバンコレクション」と兼任のアンバサダーとなる。テーマは「PLAY ELEGANCE.」。フランスの老舗クチュールメゾン、ランバンの世界観を日本の気候や生活に合わせて落とし込んだウェアを展開する。反町は「デザインはもちろん、生地や着心地への配慮が大人には大切」とコメントした。",
    "source_name": "egolf.jp",
    "source_url": "https://egolf.jp/gear/255232/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "反町隆史が新アンバサダー\nランバンスポール"
+   "headline_photo": "反町隆史が新アンバサダー\nランバンスポール",
+   "n_images": 1
   },
   {
    "id": "20260917-08",
@@ -292,12 +297,13 @@
    "status": "new",
    "type": "B",
    "kicker": "俳優・窪塚洋介のこだわり小物",
-   "summary": "窪塚洋介の特注グリーンフォークが話題。",
+   "summary": "俳優の窪塚洋介が大阪・布施ゴルフ倶楽部でのラウンドをInstagramで公開。羽根をかたどった特製グリーンフォークは金属製でくすんだメタリックの質感、「YOSUKE.K」の刻印入り、赤・黄・緑のラスタカラーのビーズを通した黒紐が付く。投稿には「マーカーがステキすぎます」「絶シブです」などのコメントが寄せられ、5,500件超のいいねを集めた。",
    "source_name": "egolf.jp",
    "source_url": "https://egolf.jp/sns/254520/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "特注グリーンフォーク\n窪塚洋介がこだわり抜く"
+   "headline_photo": "特注グリーンフォーク\n窪塚洋介がこだわり抜く",
+   "n_images": 1
   },
   {
    "id": "20260917-07",
@@ -306,12 +312,13 @@
    "status": "new",
    "type": "B",
    "kicker": "カナダ、アップランズGCで大会新記録",
-   "summary": "PGAツアーアメリカズでカイル・コッタムが12アンダー58、新記録。",
+   "summary": "PGAツアーアメリカズのデジタル・コマース・グループ・オープン最終日、カナダ・ビクトリアのアップランズGCでカイル・コッタムが12アンダー58を記録し、同ツアーのスコア新記録に。前半9ホールを29で回り、7ホール中6バーディー。16番では108ヤードからの直接ホールアウトでイーグルを奪った。同コースでは2年連続の60切りとなった。",
    "source_name": "Yahoo Sports（AP）",
    "source_url": "https://sports.yahoo.com/articles/kyle-cottam-shoots-58-canada-010319139.html",
    "found_on": "2026-09-17",
    "mode": "text",
-   "headline_photo": "12アンダー58\nアップランズGCで新記録"
+   "headline_photo": "12アンダー58\nアップランズGCで新記録",
+   "n_images": 0
   },
   {
    "id": "20260917-06",
@@ -320,12 +327,13 @@
    "status": "new",
    "type": "D",
    "kicker": "シカゴの2ブランドがタッグ",
-   "summary": "ベティナルディとグースアイランドビールがコラボ、限定パター発売。",
+   "summary": "パターブランドのベティナルディと、シカゴのビールブランド、グースアイランドの「312ビール」がコラボ。黄色を基調にした限定パター2種、オリジナルヘッドカバー4種、ディボットツール、ボールマーカーの計8点を9月24日午前9時半（現地時間）にbettinardi.comで発売。10月1日にはシカゴのグースアイランド・ソルトシェッド・パブで「シカゴ・チッピング・チャレンジ」イベントも開催する。",
    "source_name": "Plugged In Golf",
    "source_url": "https://pluggedingolf.com/golf-news-september-15-2026/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "黄色い限定パター\nベティナルディ×ビール"
+   "headline_photo": "黄色い限定パター\nベティナルディ×ビール",
+   "n_images": 1
   },
   {
    "id": "20260917-05",
@@ -334,12 +342,13 @@
    "status": "new",
    "type": "C",
    "kicker": "9月15日発売、13型",
-   "summary": "MARK & LONAがスカルカモ柄で統一したゴルフ小物13型を発売。",
+   "summary": "ゴルフアパレルブランドのMARK & LONA（運営：株式会社キューブ）が、「スカルカモフラージュ」柄で統一したゴルフ用品13型を9月15日に発売。CORDURA素材の中空糸ナイロンジャガードに合成皮革のメッシュエンボス加工を施し、各アイテムに「サークルスカル」の金属エンブレムを配した。カラーはブラック・ピンク・アイボリーの3色展開。スタンドキャディバッグ15万4000円、カートキャディバッグ16万5000円のほか、ヘッドカバー、ボストンバッグ、ボールポーチなど、価格帯は1万8700円〜16万5000円（税込）。",
    "source_name": "PR TIMES（株式会社キューブ）",
    "source_url": "https://prtimes.jp/main/html/rd/p/000000240.000024046.html",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "スカルカモの新作13型\nMARK & LONA新作"
+   "headline_photo": "スカルカモの新作13型\nMARK & LONA新作",
+   "n_images": 2
   },
   {
    "id": "20260917-04",
@@ -348,12 +357,13 @@
    "status": "new",
    "type": "C",
    "kicker": "9回目のコラボ、9月16日発売",
-   "summary": "テーラーメイド×UA9回目のコラボ「ARMY & NAVY」。裏地は日本体育大学ゴルフ部の練習場柄。",
+   "summary": "テーラーメイドとユナイテッドアローズによる9回目のコラボレーション「ARMY & NAVY」が9月16日に発売。フライトジャケットやキルティングベストの裏地には、日本体育大学ゴルフ部練習場をあしらったオリジナルコラージュ柄を使用し、同大学ゴルフ部が2026年の試合でこのコレクションを実際にユニフォームとして着用する。フライトジャケット3万7400円、カートバッグ6万9300円など全14型（税込）、テーラーメイド公式オンラインストアやユナイテッドアローズ店舗で販売。",
    "source_name": "GOLF BROS.",
    "source_url": "https://golfbros.jp/fashion_taylormade-united-arrows-2026aw-vol9_1265/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "9回目のコラボ発売\nテーラーメイド×UA"
+   "headline_photo": "9回目のコラボ発売\nテーラーメイド×UA",
+   "n_images": 1
   },
   {
    "id": "20260917-03",
@@ -362,12 +372,13 @@
    "status": "new",
    "type": "B",
    "kicker": "元ロッテ・楽天、今江敏晃",
-   "summary": "元プロ野球選手の今江敏晃、1カ月で5打縮めノーボギー66到達。",
+   "summary": "元プロ野球選手（千葉ロッテ、東北楽天）の今江敏晃が、ゴルフのベストスコアを更新中。8月に72から71（7年ぶり更新）を出した約1カ月後、ノーボギー・6バーディーの6アンダー66を達成。プロゴルファーの高島早百合から「負けました！ハンデください」と言われ、今江は「ハンデはご勘弁を」と返した。",
    "source_name": "egolf.jp",
    "source_url": "https://egolf.jp/sns/255309/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "71→66に1カ月\n元プロ野球・今江敏晃"
+   "headline_photo": "71→66に1カ月\n元プロ野球・今江敏晃",
+   "n_images": 1
   },
   {
    "id": "20260917-02",
@@ -376,12 +387,13 @@
    "status": "new",
    "type": "B",
    "kicker": "青森・東奥CC、国民スポーツ大会予選",
-   "summary": "国スポ予選のゴルフ決勝、クマ出没で中止に。",
+   "summary": "国民スポーツ大会の少年男子ゴルフ、青森市・東奥カントリークラブでの決勝ラウンド当日、7番ホール付近で午前8時ごろクマ2頭が目撃され、安全確保のため決勝が中止に。カートにはクマよけの鈴とスプレーが備えられ、朝には花火も鳴らされていたが、今年初のクマ出没だった。鹿児島城西高の選手は「最終ラウンドを楽しみにしていたのに、鹿児島ではありえないことで驚いた」と話した。",
    "source_name": "南日本新聞（373news.com）",
    "source_url": "https://373news.com/news/local/detail/239471",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "クマ出没で決勝中止\n国スポ予選、青森"
+   "headline_photo": "クマ出没で決勝中止\n国スポ予選、青森",
+   "n_images": 1
   },
   {
    "id": "20260917-01",
@@ -390,12 +402,13 @@
    "status": "new",
    "type": "A",
    "kicker": "ソニー日本女子プロ、プレーオフ制す",
-   "summary": "山下美夢有がプレーオフを制し国内メジャー3冠を達成。",
+   "summary": "石川・片山津ゴルフクラブで行われたソニー日本女子プロゴルフ選手権、最終日は山下美夢有と吉澤柚月が9アンダーで並び、18番ホールのプレーオフへ。山下がパーでまとめ、吉澤は第2打がバンカーに入りパーを外して山下が優勝。これでサロンパスカップ、リコーカップ（2回）に続き国内メジャー3勝目となり、25歳42日で史上11人目の国内メジャー3冠を達成した。",
    "source_name": "GDO",
    "source_url": "https://news.golfdigest.co.jp/news/results/jlpga/article/194970/1/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "国内メジャー3冠達成\n山下美夢有、劇的V"
+   "headline_photo": "国内メジャー3冠達成\n山下美夢有、劇的V",
+   "n_images": 3
   },
   {
    "id": "20260914-11",
@@ -404,10 +417,11 @@
    "status": "new",
    "type": "D",
    "kicker": "ナッシュビル、2026年冬開業",
-   "summary": "CityGolf USAがFazio Design Technologiesと独占契約し、屋内の18ホールコースを8コース開発。",
+   "summary": "CityGolf USAがFazio Design Technologiesと独占契約し、屋内の18ホールコースを8コース開発。シミュレーターでティーからグリーン手前まで打ち、スクリーンが上がると起伏のある本物のグリーンとバンカー、チッピングエリアが現れる。1ラウンド約2時間半。旗艦店はナッシュビルの約174,000平方フィート、2026年冬開業予定。セミプライベート運営でパブリックのティータイムもあり。",
    "source_name": "CityGolf USA プレスリリース（First Call Golf）",
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-08-26/citygolf-usa-partners-with-fazio-design-to-build-americas-first-18-hole-indoor-golf-courses",
-   "found_on": "2026-09-14"
+   "found_on": "2026-09-14",
+   "n_images": 0
   },
   {
    "id": "20260914-09",
@@ -421,10 +435,8 @@
    "source_url": "https://www.golfmonthly.com/news/haotong-li-assessed-one-stroke-penalty-in-third-round-of-amgen-irish-open",
    "found_on": "2026-09-14",
    "mode": "photo",
-   "n_images": 0,
-   "headline_photo": "",
-   "error": "",
-   "updated_at": "2026-09-16T13:27:14.460Z"
+   "updated_at": "2026-09-16T13:27:14.460Z",
+   "n_images": 0
   }
  ],
  "held": [],
@@ -437,7 +449,7 @@
    "status": "posted",
    "type": "B",
    "kicker": "ユタ州、会社員のTikTok企画",
-   "summary": "ユタ州の会社員カル・ノートンが看板を掲げプライベートクラブをヒッチハイクする企画。",
+   "summary": "ユタ州の会社員カル・ノートンが「$500 if you can beat me」「Need a fourth?」の看板を掲げてプライベートクラブの前に立ち、メンバーに拾ってもらってラウンドする企画をTikTok（@countryclubhitchhiker）で連載中。ヒドゥンバレーCC、オークリッジCC、リバーサイドCC、ウィロークリーク、レッドレッジズ、オグデンCCなどで実現し、ソルトレイクCCには入れず、あるクラブでは通報されて保安官が登場。オグデンCCではユタ州アマチュア王者と22ホールまでもつれて勝利。トニー・ロモと立ち話をする場面も。",
    "post_date": "2026-09-18",
    "post_time": "23:00",
    "source_name": "Golf Digest",
@@ -447,9 +459,8 @@
    "headline_photo": "「勝てたら500ドル」\n名門クラブ前でヒッチハイク",
    "ig_permalink": "https://www.instagram.com/p/DdbrhlmG5b8/",
    "posted_at": "2026-09-18T14:45:04Z",
-   "error": "",
-   "video_error": "",
-   "updated_at": "2026-09-18T14:45:04Z"
+   "updated_at": "2026-09-18T14:45:04Z",
+   "n_images": 0
   },
   {
    "id": "20260915-09",
@@ -458,20 +469,18 @@
    "status": "posted",
    "type": "C",
    "kicker": "ニコール・マクラフリン、一点物2着",
-   "summary": "ニコール・マクラフリンがヴィンテージのオークリーゴルフバッグを解体しレザージャケットに。",
+   "summary": "アップサイクルで知られるデザイナーのニコール・マクラフリンが、ヴィンテージのオークリー製ゴルフバッグを解体し、モトクロス風のレザージャケット2着に仕立てた。バッグのテクニカルなパネル、特大ロゴ、ユーティリティポケット、ストラップ、金具をそのまま構造に組み込んでいる。制作過程はInstagramで公開。プロゴルファーのパリス・ヒリンスキーが完成品をコースで着用。販売や価格の記載はなし。",
    "post_date": "2026-09-18",
    "post_time": "21:00",
    "source_name": "Hypebeast",
    "source_url": "https://hypebeast.com/2026/8/nicole-mclaughlin-upcycles-vintage-oakley-golf-bags-custom-leather-jackets-outerwear",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 3,
    "headline_photo": "ヴィンテージのオークリー\nゴルフバッグがジャケットに",
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
-   "error": "",
-   "video_error": "",
-   "updated_at": "2026-09-15T09:59:30.182Z"
+   "updated_at": "2026-09-15T09:59:30.182Z",
+   "n_images": 3
   },
   {
    "id": "20260915-06",
@@ -480,19 +489,18 @@
    "status": "posted",
    "type": "C",
    "kicker": "9月19日予約開始、2型",
-   "summary": "少女時代スヨン×KISS ON THE GREEN、初コラボ。",
+   "summary": "少女時代のスヨンがブランドアンバサダーを務めるゴルフウェアブランドKISS ON THE GREEN（丸山木材ホールディングス）が、スヨンと作ったコラボ第1弾を9月19日から予約販売。Vネックのロングスリーブニットポロ1万9600円と、インナーパンツ一体型のAラインプリーツニットスカート1万9000円の2型、各ネイビー／オフホワイト、XS〜L。公式オンライン、楽天市場、Yahoo!ショッピングで販売。スヨンの名前から生まれたキャラクター「Soo」のノベルティ付きで、購入者30名を10月31日のスヨン来場イベントに招待。",
    "post_date": "2026-09-17",
    "post_time": "23:00",
    "source_name": "PR TIMES（丸山木材ホールディングス）",
    "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000074642.html",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 3,
    "headline_photo": "少女時代スヨンが初コラボ\nKISS ON THE GREEN",
    "ig_permalink": "https://www.instagram.com/p/DdZGbshHMmh/",
    "posted_at": "2026-09-17T14:42:28+00:00",
-   "error": "",
-   "updated_at": "2026-09-15T09:59:12.145Z"
+   "updated_at": "2026-09-15T09:59:12.145Z",
+   "n_images": 3
   },
   {
    "id": "20260915-05",
@@ -501,20 +509,19 @@
    "status": "posted",
    "type": "D",
    "kicker": "ニューメキシコオープン、9月14日から",
-   "summary": "AI解説者「ダフ・フォアマン」がニューメキシコオープンで実況デビュー。",
+   "summary": "米ニューメキシコ州のステートオープン「ニューメキシコオープン」（9月14〜16日、タートルバック・マウンテンG&R）の中継に、会話型AI解説者「ダフ・フォアマン」が登場。台本なしでスイング分析やコース戦略、ルールを語り、人間の解説者ノータ・ビゲイ3世、ライアン・バーと生でやりとりする。制作はゴーファー・ホール・プロダクションズ、配信はYouTube、Facebook、Instagram。ゴルフダイジェストの事前検証では、ビゲイのスイングに「ボール初速は747並み」というあり得ない数字を出し、スコットランド訛りも安定しなかった。",
    "post_date": "2026-09-17",
    "post_time": "21:00",
    "source_name": "Golf Digest",
    "source_url": "https://www.golfdigest.com/story/duff-foreman-questions-answers-2026",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 3,
    "headline_photo": "AI解説者、実況デビュー\nその名はダフ・フォアマン",
    "cover_video": true,
    "ig_permalink": "https://www.instagram.com/p/DdY48W-mhr7/",
    "posted_at": "2026-09-17T12:44:35+00:00",
-   "error": "",
-   "updated_at": "2026-09-17T08:25:00.000Z"
+   "updated_at": "2026-09-17T08:25:00.000Z",
+   "n_images": 3
   },
   {
    "id": "20260915-04",
@@ -523,19 +530,18 @@
    "status": "posted",
    "type": "A",
    "kicker": "サンフォード・インターナショナル前夜",
-   "summary": "フレッド・カプルスがノールックのチップインを決めた。",
+   "summary": "PGAツアーチャンピオンズのサンフォード・インターナショナル、9月10日夜のスポンサー向けニアピン対決で、フレッド・カプルスがグリーン脇からの一打を見送らずに背を向け、ボールはグリーン上の5個のボールをかわしてカップイン。打った直後に「これは相当いい」と言ったとゴルフダイジェストは伝え、見出しは「スワッガー・レベル10億」。同じ場にはジョン・デーリー、ヘンリク・ステンソン、ミゲル・アンヘル・ヒメネスも。動画はPGAツアーチャンピオンズ公式Xが投稿。",
    "post_date": "2026-09-16",
    "post_time": "23:00",
    "source_name": "Golf Digest",
    "source_url": "https://www.golfdigest.com/story/fred-couples-no-look-hole-out-video",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 2,
    "headline_photo": "打った瞬間に背を向けて\nカプルス、伝説のチップイン",
    "ig_permalink": "https://www.instagram.com/p/DdWhnOjFd0N/",
    "posted_at": "2026-09-16T14:42:16+00:00",
-   "error": "",
-   "updated_at": "2026-09-16T01:05:00.000Z"
+   "updated_at": "2026-09-16T01:05:00.000Z",
+   "n_images": 2
   },
   {
    "id": "20260915-03",
@@ -544,19 +550,18 @@
    "status": "posted",
    "type": "B",
    "kicker": "米チャールストン、2028年1月開業予定",
-   "summary": "米チャールストンに子ども専用9ホールが着工へ。",
+   "summary": "米サウスカロライナ州チャールストンのウェストアシュリー地区に、ファーストティー・グレーターチャールストンが子ども専用の9ホールコースを建設する。会員になれるのは5〜18歳のみで、大人は子ども会員の同伴時だけプレー可。設計はブライアン・シュナイダーとトロイ・ミラー、敷地13.8エーカー、USGAのハンディキャップ要件を満たす750ヤード以上。数カ月内に造成開始、開業は2028年1月予定。目標1400万ドルの募金はすでに70%超。",
    "post_date": "2026-09-16",
    "post_time": "21:00",
    "source_name": "Golf Digest",
    "source_url": "https://www.golfdigest.com/story/first-tee-greater-charleston-kids-course",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 2,
    "headline_photo": "会員は5〜18歳だけ\n子ども専用9ホールが着工",
    "ig_permalink": "https://www.instagram.com/p/DdWT28HoFf1/",
    "posted_at": "2026-09-16T12:42:04+00:00",
-   "error": "",
-   "updated_at": "2026-09-15T16:10:00.000Z"
+   "updated_at": "2026-09-15T16:10:00.000Z",
+   "n_images": 2
   },
   {
    "id": "20260915-02",
@@ -565,19 +570,18 @@
    "status": "posted",
    "type": "C",
    "kicker": "ネイビー×ゴールドのピカチュウ",
-   "summary": "パーリーゲイツ×ポケモン第2弾、9月18日発売。",
+   "summary": "パーリーゲイツとポケモンの2回目のコラボが9月18日に全国発売。秋コレクション「Now Classic」の一部で、ダークネイビーにゴールドのピカチュウエンブレムを配したウェアのほか、千鳥柄ジャカードのキャディバッグ、モンスターボール柄のマルチポーチ、ピカチュウのしっぽ型ボール拭きも。9月16日から東京丸の内、大阪南船場、名古屋、大阪髙島屋の4会場で先行販売（東京・大阪は30日まで、名古屋・大阪髙島屋は22日まで）。購入者にステッカー、4万4000円以上でモンスターボール型ポーチ付きエコバッグ。価格はリリースに記載なし。",
    "post_date": "2026-09-15",
    "post_time": "22:30",
    "source_name": "PR TIMES（TSIホールディングス）",
    "source_url": "https://prtimes.jp/main/html/rd/p/000001561.000009786.html",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 3,
    "headline_photo": "パーリーゲイツ×ポケモン\n第2弾は9月18日発売",
    "ig_permalink": "https://www.instagram.com/p/DdT1vWToO8e/",
    "posted_at": "2026-09-15T13:40:24+00:00",
-   "error": "",
-   "updated_at": "2026-09-15T09:58:54.728Z"
+   "updated_at": "2026-09-15T09:58:54.728Z",
+   "n_images": 3
   },
   {
    "id": "20260915-01",
@@ -586,19 +590,18 @@
    "status": "posted",
    "type": "B",
    "kicker": "高陽カントリークラブ、9月から",
-   "summary": "ソウル郊外・高陽CCがロボットキャディ40台を正式稼働。",
+   "summary": "ソウル近郊・高陽（コヤン）の9ホールコース、高陽カントリークラブが8月の試験運用を経て9月から自走ロボットキャディ「Hello Caddy」40台を正式導入。バッグを載せてプレーヤーを追走し、残り距離やペナルティエリアの位置を端末に表示する。料金は1人3万ウォン、3部・4部の時間帯で利用でき、試験期間中は5〜6枠が満席に。同じ高陽のスプリングヒルズCCは目土ロボットとボールマーク修復ロボットを導入し、5年で約7億ウォンの管理費削減を見込む。",
    "post_date": "2026-09-15",
    "post_time": "20:30",
    "source_name": "ソウル経済新聞",
    "source_url": "https://en.sedaily.com/sports/2026/09/04/goyangs-9-hole-courses-court-golfers-with-robot-caddies-ai",
    "found_on": "2026-09-15",
    "mode": "photo",
-   "n_images": 2,
    "headline_photo": "ロボットキャディ40台稼働\nソウル郊外の9ホールコース",
    "ig_permalink": "https://www.instagram.com/p/DdToGRvnMRf/",
    "posted_at": "2026-09-15T11:41:12+00:00",
-   "error": "",
-   "updated_at": "2026-09-15T09:28:46.688Z"
+   "updated_at": "2026-09-15T09:28:46.688Z",
+   "n_images": 2
   },
   {
    "id": "20260914-06",
@@ -607,19 +610,18 @@
    "status": "posted",
    "type": "C",
    "kicker": "松山英樹は自動選出、久常涼はキャプテンズピック",
-   "summary": "プレジデンツカップ、日本勢2人の同時出場は28年ぶり。",
+   "summary": "9/24〜27メディナCC。松山は世界ランクで自動選出、7大会連続。久常はオギルビー主将の推薦。日本勢2人は1998年の丸山茂樹・尾崎直道以来。米国は21歳ジャクソン・コイヴンがスピース以来の年少選出。",
    "post_date": "2026-09-15",
    "post_time": "18:00",
    "source_name": "GDO",
    "source_url": "https://news.golfdigest.co.jp/news/pga/article/194715/1/",
    "found_on": "2026-09-14",
    "mode": "photo",
-   "n_images": 1,
    "headline_photo": "日本勢２人が世界選抜入り\n松山＆久常、28年ぶりの快挙",
    "ig_permalink": "https://www.instagram.com/p/DdTZfUBleFY/",
    "posted_at": "2026-09-15T09:33:29+00:00",
-   "error": "",
-   "updated_at": "2026-09-14T05:23:32.523Z"
+   "updated_at": "2026-09-14T05:23:32.523Z",
+   "n_images": 1
   },
   {
    "id": "20260914-01",
@@ -628,16 +630,16 @@
    "status": "posted",
    "type": "B",
    "kicker": "タスマニアのアマチュアゴルファー",
-   "summary": "タスマニアのアマチュアが5ヶ月で2回アルバトロス。",
+   "summary": "タスマニアのポール・リード氏がヒュオンバレーGCとタスマニアGCで5ヶ月のあいだに2度のアルバトロス。現地メディアの試算では1兆分の1級の確率。2回ともボールは回収できず。",
    "post_date": "2026-09-14",
    "post_time": "15:00",
    "source_name": "Australian Golf Digest",
    "source_url": "https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/",
    "found_on": "2026-09-14",
-   "n_images": 4,
    "ig_permalink": "https://www.instagram.com/p/DdQg4uYG0j1/",
    "posted_at": "2026-09-14T06:40:28+00:00",
-   "updated_at": "2026-09-14T05:08:35.305Z"
+   "updated_at": "2026-09-14T05:08:35.305Z",
+   "n_images": 0
   }
  ],
  "processed_issues": {}
