@@ -36,7 +36,7 @@ Mid 90s Club のゴルフメディア用 Instagram 投稿は、Claude の「編�
  "cover_video": false,
  "images": [{"url": "https://…/photo.jpg", "credit": "媒体名"}]}
 ```
-- 使える項目: `title`, `headline_photo`（表紙の見出し。2行、各12字前後）, `caption`, `mode`（`photo` / `text`）, `cover_video`, `use_video`, `video_start`, `video_seconds`, `images`, `kicker`, `summary`
+- 使える項目: `title`, `headline_photo`（表紙の見出し。2行、各12字前後）, `caption`, `mode`（`photo` 写真 / `ai` AI生成イメージ / `text` 緑カード）, `image_prompt`（AI イメージの英語の場面描写。変えると次回生成し直す）, `cover_video`, `use_video`, `video_start`, `video_seconds`, `images`, `kicker`, `summary`
 - 複数コマンドは JSON の配列を本文に（1つの Issue でまとめてよい）
 - 本文の JSON は ```json フェンスで囲んでも可
 

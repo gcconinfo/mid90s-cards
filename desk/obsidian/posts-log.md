@@ -1,15 +1,16 @@
 ---
 tags: [mid90s, auto]
-updated: 2026-09-19 14:44
+updated: 2026-09-19 21:47
 ---
 > 自動生成（投稿ルーティンが毎時36分ごろ更新 → Mac のスケジュールタスクが Vault に取り込む）。手で編集しない。決定や考えは [[Mid 90s Club]] に書く。
 
 # 投稿ログ（@golfpostjp）
 
-投稿数: 10
+投稿数: 11
 
 ## 2026-09
 
+- 2026-09-19 21:44 · STYLE · キャロウェイ×CLUBHAUS第3弾、90年代ビッグバーサ柄 · [Instagram](https://www.instagram.com/p/DdeCeUBoPuL/) · [PR TIMES（キャロウェイゴルフ）](https://prtimes.jp/main/html/rd/p/000000022.000033352.html) · 写真3枚 · `20260915-14`
 - 2026-09-18 23:45 · 珍ネタ · 「勝てたら500ドル」名門クラブ前でヒッチハイク · [Instagram](https://www.instagram.com/p/DdbrhlmG5b8/) · [Golf Digest](https://www.golfdigest.com/story/watch-this-golf-degenerate-attempt-to-hitchhike-every-private-course-utah-cops-money) · テキスト型 · `20260915-11`
 - 2026-09-18 21:46 · STYLE · ヴィンテージのオークリーのバッグが、ジャケットに · [Instagram](https://www.instagram.com/p/Ddbd6lOG0bD/) · [Hypebeast](https://hypebeast.com/2026/8/nicole-mclaughlin-upcycles-vintage-oakley-golf-bags-custom-leather-jackets-outerwear) · 写真3枚 · `20260915-09`
 - 2026-09-17 23:42 · STYLE · 少女時代スヨン×KISS ON THE GREEN、初コラボ · [Instagram](https://www.instagram.com/p/DdZGbshHMmh/) · [PR TIMES（丸山木材ホールディングス）](https://prtimes.jp/main/html/rd/p/000000053.000074642.html) · 写真3枚 · `20260915-06`
