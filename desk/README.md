@@ -1,4 +1,4 @@
-# desk/ — 編集部デスクの窓口（`main` の desk/。API で置けないときは固定 Issue「📋 デスクの状態（自動更新）」）
+# desk/ — 編集部デスクの窓口（ブランチ `claude/desk`）
 
 Claude の自動投稿ルーティン（毎時36分ごろ）がここを読み書きします。
 
@@ -9,6 +9,8 @@ Claude の自動投稿ルーティン（毎時36分ごろ）がここを読み�
 | `processed.json` | ルーティン | 処理済み Issue の番号と結果（同じ Issue を二度処理しないため） |
 | `CHATGPT.md` | ルーティン（pipeline から上書き） | ChatGPT 向けの使い方（コマンド一覧） |
 | `README.md` | ルーティン（pipeline から上書き） | このファイル |
+| `posts.json` | ルーティン | 投稿済みの累積（ID・日時・見出し・Instagram リンク） |
+| `obsidian/desk-state.md`, `obsidian/posts-log.md` | ルーティン | Obsidian Vault に取り込まれるノート（Mac のスケジュールタスクが2時間ごとにコピー） |
 
 コマンドの受け口はこのリポジトリの **Issues**（オーナーが立てたものだけ有効）。書き方は `CHATGPT.md`。
 `cards/` は投稿用のカード画像・動画（Instagram に渡す公開URL用）。

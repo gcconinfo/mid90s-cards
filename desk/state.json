@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T08:43+09:00",
+ "generated_at": "2026-09-19T11:42+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -8,7 +8,7 @@
   "time": "21:00"
  },
  "counts": {
-  "new": 16,
+  "new": 23,
   "held": 0,
   "approved": 10,
   "failed": 0
@@ -200,6 +200,122 @@
   }
  ],
  "new": [
+  {
+   "id": "20260919-07",
+   "version": 1,
+   "title": "マクレガー、ミニドライバー市場に参入",
+   "status": "new",
+   "type": "D",
+   "kicker": "£199.99、ドライバーとFWの間",
+   "summary": "マクレガーゴルフが新作「マック・ミニドライバー」を発売した。価格は199.99ポンド。チタン製ヘッドに調整可能なホーゼルを備え、弾道を微調整できる。ドライバーとフェアウェイウッドの中間に位置する設計で、フェアウェイを外しがちなゴルファーに、精度重視のもう一つの選択肢を提供する。",
+   "source_name": "Golf Business News",
+   "source_url": "https://golfbusinessnews.com/news/new-products/macgregor-launches-new-mac-mini-driver/",
+   "found_on": "2026-09-19",
+   "mode": "photo",
+   "headline_photo": "ドライバーと\nFWの間、参入",
+   "n_images": 2
+  },
+  {
+   "id": "20260919-06",
+   "version": 1,
+   "title": "BIG MAX×オーストリア代表、フルコレクションに",
+   "status": "new",
+   "type": "D",
+   "kicker": "バッグからアクセサリーまで拡大",
+   "summary": "ドイツのバッグブランドBIG MAXと、オーストリアゴルフ協会（ÖGV）のコラボが新たな段階へ。もともとカスタムバッグから始まった提携が、2026年にボストンバッグ、ヘッドカバー、アンブレラ、キャップ、アライメントタオル、ステンレスボトルまで揃うフルコレクションに拡大した。オーストリア代表選手のフィードバックを製品開発に反映している。",
+   "source_name": "First Call Golf",
+   "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-07/big-max-takes-team-golf-to-the-next-level-with-golf-austria-partnership",
+   "found_on": "2026-09-19",
+   "mode": "photo",
+   "headline_photo": "バッグから\n小物までフル拡大",
+   "n_images": 1
+  },
+  {
+   "id": "20260919-05",
+   "version": 1,
+   "title": "Touch of Grace、秋冬新作ニット3型",
+   "status": "new",
+   "type": "C",
+   "kicker": "起毛タートル＆リブニット、9月18日発売",
+   "summary": "レディースゴルフウェアブランドTouch of Graceが、2026年秋冬の新作3型を9月18日に発売した。起毛タートルネック（1万1000円）、リブニットジャケットとスカート（各2万1780円・1万9250円）で、色はホワイト・ブラックとアイボリー・グレー。MA-1ディテールの新シリーズ「Bise Utility」も近日公開予定。",
+   "source_name": "PR TIMES（株式会社インター・ベル）",
+   "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000181681.html",
+   "found_on": "2026-09-19",
+   "mode": "photo",
+   "headline_photo": "秋冬の新作ニット\n3型、9月18日発売",
+   "n_images": 3
+  },
+  {
+   "id": "20260919-04",
+   "version": 1,
+   "title": "ジョニー・オー、Cal大男子ゴルフの新パートナー",
+   "status": "new",
+   "type": "C",
+   "kicker": "カル卒業生CEOが手がける新契約",
+   "summary": "米アパレルブランドのジョニー・オーが、2026-27シーズンからUCバークレー（Cal）男子ゴルフチームの公式アパレルパートナーに就任した。カル卒業生であるデイブ・ガットCEOのもと、ブルー＆ゴールドにカスタムした「クラブコレクション」のパフォーマンスウェアと、遠征用の「コーヒーラン・コレクション」を提供する。",
+   "source_name": "First Call Golf",
+   "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-17/industry-notes-thursday-september-17-2026",
+   "found_on": "2026-09-19",
+   "mode": "text",
+   "n_images": 0
+  },
+  {
+   "id": "20260919-03",
+   "version": 1,
+   "title": "10歳、116ヤードのパー3でホールインワン",
+   "status": "new",
+   "type": "B",
+   "kicker": "オハイオ州ウースターの少年",
+   "summary": "オハイオ州ウースター在住の10歳、ホルデン・ドラウン君が、マサイロンのエルムズ・カントリークラブでの父親とのラウンド中、9ホールを終えた最後のホール（116ヤードのパー3）でホールインワンを達成した。ティショットは右に跳ねて丘を越え、そのままカップイン。父親のベンさんはナショナル・ホールインワン・レジストリに登録した。",
+   "source_name": "Hoodline",
+   "source_url": "https://hoodline.com/2026/09/wooster-third-grader-aces-116-yard-hole-at-elms-country-club/",
+   "found_on": "2026-09-19",
+   "mode": "text",
+   "n_images": 0
+  },
+  {
+   "id": "20260919-02",
+   "version": 1,
+   "title": "ワニをシチメンチョウの群れが追いかけた",
+   "status": "new",
+   "type": "B",
+   "kicker": "フロリダ、セント・ジョンズGC",
+   "summary": "フロリダ州セントオーガスティン近郊のセント・ジョンズ・ゴルフ＆カントリークラブで、巨大なワニがフェアウェイを横切り、その後ろをシチメンチョウの群れが一列になって追いかける様子が撮影された。動画はSNSで拡散し話題になった。同クラブは1989年開場、2022年にエリック・ラーセンが改修。クラブのロゴはとぐろを巻いたワニ。",
+   "source_name": "Yahoo Sports",
+   "source_url": "https://sports.yahoo.com/articles/florida-alligator-swarmed-parade-turkeys-120600674.html",
+   "found_on": "2026-09-19",
+   "mode": "text",
+   "video": {
+    "credit": "",
+    "note": "TikTokで拡散した動画のため取得不可。ワニをシチメンチョウの群れが追いかける様子",
+    "seconds": 15,
+    "source_type": "media",
+    "start": 0
+   },
+   "n_images": 0
+  },
+  {
+   "id": "20260919-01",
+   "version": 1,
+   "title": "ラウンド中にキャディ降板。直前は水上飛行機遊覧",
+   "status": "new",
+   "type": "B",
+   "kicker": "トスティ、ビルトモア選手権初日",
+   "summary": "ビルトモア選手権初日、アルゼンチンのアレハンドロ・トスティのキャディ、クリフ・エリスが後半9ホール目の18番でバッグを置いて途中辞任した。火曜の練習ラウンドでの意見の相違が背景とされ、トスティは「8ホール連続パーには付いてこられなかった」と冗談を返した。その数時間前、Instagramにはアッシュビル近郊の山を飛ぶ水上飛行機遊覧の動画を投稿していた。",
+   "source_name": "GOLF.com",
+   "source_url": "https://golf.com/news/caddie-quits-pga-tour/",
+   "found_on": "2026-09-19",
+   "mode": "photo",
+   "headline_photo": "キャディが途中で辞めた\n直前は水上飛行機で遊覧",
+   "video": {
+    "credit": "Alejandro Tosti",
+    "note": "Instagram埋め込みのため取得不可。水上飛行機に乗る本人の動画",
+    "seconds": 15,
+    "source_type": "personal",
+    "start": 0
+   },
+   "n_images": 1
+  },
   {
    "id": "20260918-07",
    "version": 1,

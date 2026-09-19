@@ -4,7 +4,7 @@ Mid 90s Club のゴルフメディア用 Instagram 投稿は、Claude の「編�
 デスクのデータベースは Claude の中にあるので、外（ChatGPT など）からはこのリポジトリを窓口にします。
 
 ## 見る（読むだけ・認証不要）
-- 現在の状態: `https://raw.githubusercontent.com/gcconinfo/mid90s-cards/main/desk/STATE.md`（404 のときは Issue「📋 デスクの状態（自動更新）」の本文に同じ内容がある）
+- 現在の状態: `https://raw.githubusercontent.com/gcconinfo/mid90s-cards/claude/desk/desk/STATE.md`（ブランチ `claude/desk`。ルーティンが毎回 push する）
   - 候補（採用待ち）、投稿予定と日時、保留、失敗と理由、直近の投稿済み（Instagram リンク）、次の空き枠、コマンドの処理結果
   - 同じ内容の JSON: `.../desk/state.json`
 - 処理ログ: `.../desk/LOG.md`
