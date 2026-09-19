@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T11:42+09:00",
+ "generated_at": "2026-09-19T12:43+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -758,5 +758,12 @@
    "n_images": 0
   }
  ],
- "processed_issues": {}
+ "processed_issues": {
+  "1": {
+   "at": "2026-09-19T12:43+09:00",
+   "ok": false,
+   "summary": "コマンドを読み取れませんでした（本文に JSON か、題名に「approve 20260918-03」の形で）",
+   "closed": true
+  }
+ }
 }
