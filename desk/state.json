@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T23:44+09:00",
+ "generated_at": "2026-09-20T03:42+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -28,8 +28,8 @@
    "source_url": "https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "error": "",
-   "updated_at": "2026-09-19T05:20:00.000Z"
+   "updated_at": "2026-09-19T05:20:00.000Z",
+   "n_images": 0
   },
   {
    "id": "20260916-04",
@@ -54,7 +54,6 @@
     "start": 0,
     "url": "https://www.youtube.com/watch?v=OBX_WfCeuOs"
    },
-   "error": "",
    "updated_at": "2026-09-16T08:59:28.585Z",
    "n_images": 2
   },
@@ -73,7 +72,6 @@
    "found_on": "2026-09-16",
    "mode": "photo",
    "headline_photo": "ダサいパンツで20年\n10万ドル超のチャリティ",
-   "error": "",
    "updated_at": "2026-09-16T08:59:44.131Z",
    "n_images": 3
   },
@@ -92,7 +90,6 @@
    "found_on": "2026-09-16",
    "mode": "ai",
    "headline_photo": "同時に打った球が衝突\n処置は「そのまま」",
-   "error": "",
    "updated_at": "2026-09-19T05:20:00.000Z",
    "n_images": 0
   },
@@ -111,7 +108,6 @@
    "found_on": "2026-09-16",
    "mode": "text",
    "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
-   "error": "",
    "updated_at": "2026-09-16T13:03:35.170Z",
    "n_images": 0
   },
@@ -128,8 +124,8 @@
    "source_name": "Hypebeast",
    "source_url": "https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info",
    "found_on": "2026-09-14",
-   "error": "",
-   "updated_at": "2026-09-16T13:26:55.359Z"
+   "updated_at": "2026-09-16T13:26:55.359Z",
+   "n_images": 0
   },
   {
    "id": "20260918-02",
@@ -146,7 +142,6 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "AIがスイング再現\n韓国発ゴルフロボット",
-   "error": "",
    "updated_at": "2026-09-18T03:45:38.504Z",
    "n_images": 2
   },
@@ -165,7 +160,6 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
-   "error": "",
    "updated_at": "2026-09-18T03:45:43.380Z",
    "n_images": 3
   }
@@ -228,7 +222,6 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-17/industry-notes-thursday-september-17-2026",
    "found_on": "2026-09-19",
    "mode": "text",
-   "headline_photo": "",
    "n_images": 0
   },
   {
@@ -243,7 +236,6 @@
    "source_url": "https://hoodline.com/2026/09/wooster-third-grader-aces-116-yard-hole-at-elms-country-club/",
    "found_on": "2026-09-19",
    "mode": "ai",
-   "headline_photo": "",
    "updated_at": "2026-09-19T05:20:00.000Z",
    "n_images": 0
   },
@@ -259,7 +251,6 @@
    "source_url": "https://sports.yahoo.com/articles/florida-alligator-swarmed-parade-turkeys-120600674.html",
    "found_on": "2026-09-19",
    "mode": "ai",
-   "headline_photo": "",
    "video": {
     "credit": "",
     "note": "TikTokで拡散した動画のため取得不可。ワニをシチメンチョウの群れが追いかける様子",
@@ -515,7 +506,8 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-08-26/citygolf-usa-partners-with-fazio-design-to-build-americas-first-18-hole-indoor-golf-courses",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z"
+   "updated_at": "2026-09-19T05:20:00.000Z",
+   "n_images": 0
   },
   {
    "id": "20260914-09",
@@ -529,7 +521,6 @@
    "source_url": "https://www.golfmonthly.com/news/haotong-li-assessed-one-stroke-penalty-in-third-round-of-amgen-irish-open",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "headline_photo": "",
    "updated_at": "2026-09-19T05:20:00.000Z",
    "n_images": 0
   }
@@ -554,8 +545,6 @@
    "headline_photo": "LIVゴルフが破産法申請\n次は選手がオーナーに",
    "ig_permalink": "https://www.instagram.com/p/DdeQFf_oKLH/",
    "posted_at": "2026-09-19T14:43:01.000Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T13:21:39.556Z",
    "n_images": 1
   },
@@ -576,8 +565,6 @@
    "headline_photo": "キャロウェイ×CLUBHAUS\n90年代ビッグバーサ柄",
    "ig_permalink": "https://www.instagram.com/p/DdeCeUBoPuL/",
    "posted_at": "2026-09-19T12:44:05Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T10:00:05.719Z",
    "n_images": 3
   },
@@ -598,8 +585,6 @@
    "headline_photo": "「勝てたら500ドル」\n名門クラブ前でヒッチハイク",
    "ig_permalink": "https://www.instagram.com/p/DdbrhlmG5b8/",
    "posted_at": "2026-09-18T14:45:04Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-18T14:45:04Z",
    "n_images": 0
   },
@@ -620,8 +605,6 @@
    "headline_photo": "ヴィンテージのオークリー\nゴルフバッグがジャケットに",
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T09:59:30.182Z",
    "n_images": 3
   },
@@ -642,7 +625,6 @@
    "headline_photo": "少女時代スヨンが初コラボ\nKISS ON THE GREEN",
    "ig_permalink": "https://www.instagram.com/p/DdZGbshHMmh/",
    "posted_at": "2026-09-17T14:42:28+00:00",
-   "error": "",
    "updated_at": "2026-09-15T09:59:12.145Z",
    "n_images": 3
   },
@@ -664,7 +646,6 @@
    "cover_video": true,
    "ig_permalink": "https://www.instagram.com/p/DdY48W-mhr7/",
    "posted_at": "2026-09-17T12:44:35+00:00",
-   "error": "",
    "updated_at": "2026-09-17T08:25:00.000Z",
    "n_images": 3
   },
@@ -685,7 +666,6 @@
    "headline_photo": "打った瞬間に背を向けて\nカプルス、伝説のチップイン",
    "ig_permalink": "https://www.instagram.com/p/DdWhnOjFd0N/",
    "posted_at": "2026-09-16T14:42:16+00:00",
-   "error": "",
    "updated_at": "2026-09-16T01:05:00.000Z",
    "n_images": 2
   },
@@ -706,7 +686,6 @@
    "headline_photo": "会員は5〜18歳だけ\n子ども専用9ホールが着工",
    "ig_permalink": "https://www.instagram.com/p/DdWT28HoFf1/",
    "posted_at": "2026-09-16T12:42:04+00:00",
-   "error": "",
    "updated_at": "2026-09-15T16:10:00.000Z",
    "n_images": 2
   },
@@ -727,7 +706,6 @@
    "headline_photo": "パーリーゲイツ×ポケモン\n第2弾は9月18日発売",
    "ig_permalink": "https://www.instagram.com/p/DdT1vWToO8e/",
    "posted_at": "2026-09-15T13:40:24+00:00",
-   "error": "",
    "updated_at": "2026-09-15T09:58:54.728Z",
    "n_images": 3
   },
@@ -748,7 +726,6 @@
    "headline_photo": "ロボットキャディ40台稼働\nソウル郊外の9ホールコース",
    "ig_permalink": "https://www.instagram.com/p/DdToGRvnMRf/",
    "posted_at": "2026-09-15T11:41:12+00:00",
-   "error": "",
    "updated_at": "2026-09-15T09:28:46.688Z",
    "n_images": 2
   }
