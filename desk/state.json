@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T03:43+09:00",
+ "generated_at": "2026-09-21T05:44+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -16,7 +16,7 @@
  "approved": [
   {
    "id": "20260916-06",
-   "version": 2,
+   "version": null,
    "title": "「ダサいパンツ」で20年、完売のチャリティコンペ",
    "status": "approved",
    "type": "B",
@@ -34,7 +34,7 @@
   },
   {
    "id": "20260916-09",
-   "version": 3,
+   "version": null,
    "title": "同時に打った2人の球がフェアウェイで衝突、処置は？",
    "status": "approved",
    "type": "B",
@@ -52,7 +52,7 @@
   },
   {
    "id": "20260916-10",
-   "version": 2,
+   "version": null,
    "title": "ケビン・ハート×Fabletics、ゴルフ19型",
    "status": "approved",
    "type": "C",
@@ -70,7 +70,7 @@
   },
   {
    "id": "20260914-10",
-   "version": 2,
+   "version": null,
    "title": "ソウル発sunlovetour×NB、Minimusで第2弾",
    "status": "approved",
    "type": "C",
@@ -86,7 +86,7 @@
   },
   {
    "id": "20260918-02",
-   "version": 2,
+   "version": null,
    "title": "AIがスイングを再現、韓国発ゴルフロボット",
    "status": "approved",
    "type": "B",
@@ -104,7 +104,7 @@
   },
   {
    "id": "20260918-03",
-   "version": 2,
+   "version": null,
    "title": "HONMA×PATRICK、コラボ第2弾",
    "status": "approved",
    "type": "C",
@@ -124,7 +124,7 @@
  "new": [
   {
    "id": "20260920-08",
-   "version": 1,
+   "version": null,
    "title": "アマ世界大会、ターンベリーで開幕へ",
    "status": "new",
    "type": "D",
@@ -139,7 +139,7 @@
   },
   {
    "id": "20260920-07",
-   "version": 1,
+   "version": null,
    "title": "TRUE、本社をゴルフ場に移転",
    "status": "new",
    "type": "D",
@@ -154,7 +154,7 @@
   },
   {
    "id": "20260920-06",
-   "version": 1,
+   "version": null,
    "title": "松井珠理奈、ゴルフデビュー",
    "status": "new",
    "type": "C",
@@ -169,7 +169,7 @@
   },
   {
    "id": "20260920-05",
-   "version": 1,
+   "version": null,
    "title": "ホンダ新型にキャディバッグ何個？",
    "status": "new",
    "type": "B",
@@ -184,7 +184,7 @@
   },
   {
    "id": "20260920-04",
-   "version": 1,
+   "version": null,
    "title": "金田久美子、ド派手キャディーバッグ",
    "status": "new",
    "type": "B",
@@ -199,7 +199,7 @@
   },
   {
    "id": "20260920-03",
-   "version": 1,
+   "version": null,
    "title": "17歳アマ、ドラコン女王を2連覇",
    "status": "new",
    "type": "B",
@@ -214,7 +214,7 @@
   },
   {
    "id": "20260920-02",
-   "version": 1,
+   "version": null,
    "title": "河本結、10番でOB3発の「10」",
    "status": "new",
    "type": "B",
@@ -229,7 +229,7 @@
   },
   {
    "id": "20260920-01",
-   "version": 1,
+   "version": null,
    "title": "山下美夢有、石川に1000万円を寄付",
    "status": "new",
    "type": "A",
@@ -244,7 +244,7 @@
   },
   {
    "id": "20260919-07",
-   "version": 1,
+   "version": null,
    "title": "マクレガー、ミニドライバー市場に参入",
    "status": "new",
    "type": "D",
@@ -259,7 +259,7 @@
   },
   {
    "id": "20260919-06",
-   "version": 1,
+   "version": null,
    "title": "BIG MAX×オーストリア代表、フルコレクションに",
    "status": "new",
    "type": "D",
@@ -274,7 +274,7 @@
   },
   {
    "id": "20260919-05",
-   "version": 1,
+   "version": null,
    "title": "Touch of Grace、秋冬新作ニット3型",
    "status": "new",
    "type": "C",
@@ -289,7 +289,7 @@
   },
   {
    "id": "20260919-04",
-   "version": 1,
+   "version": null,
    "title": "ジョニー・オー、Cal大男子ゴルフの新パートナー",
    "status": "new",
    "type": "C",
@@ -303,7 +303,7 @@
   },
   {
    "id": "20260919-03",
-   "version": 2,
+   "version": null,
    "title": "10歳、116ヤードのパー3でホールインワン",
    "status": "new",
    "type": "B",
@@ -318,7 +318,7 @@
   },
   {
    "id": "20260919-02",
-   "version": 2,
+   "version": null,
    "title": "ワニをシチメンチョウの群れが追いかけた",
    "status": "new",
    "type": "B",
@@ -340,7 +340,7 @@
   },
   {
    "id": "20260919-01",
-   "version": 1,
+   "version": null,
    "title": "ラウンド中にキャディ降板。直前は水上飛行機遊覧",
    "status": "new",
    "type": "B",
@@ -362,7 +362,7 @@
   },
   {
    "id": "20260918-07",
-   "version": 1,
+   "version": null,
    "title": "ゴルフ場の芝刈り、ロボットが担う",
    "status": "new",
    "type": "B",
@@ -377,7 +377,7 @@
   },
   {
    "id": "20260918-06",
-   "version": 1,
+   "version": null,
    "title": "パリ五輪会場、地下鉄工事で大改修",
    "status": "new",
    "type": "D",
@@ -392,7 +392,7 @@
   },
   {
    "id": "20260918-05",
-   "version": 1,
+   "version": null,
    "title": "「発砲事件」の正体はゴルフボールだった",
    "status": "new",
    "type": "B",
@@ -407,7 +407,7 @@
   },
   {
    "id": "20260918-04",
-   "version": 1,
+   "version": null,
    "title": "ラコステ×CLUBHAUSが限定コラボ",
    "status": "new",
    "type": "C",
@@ -422,7 +422,7 @@
   },
   {
    "id": "20260917-10",
-   "version": 1,
+   "version": null,
    "title": "ゼクシオ、2027年干支ボール「未」発売",
    "status": "new",
    "type": "B",
@@ -437,7 +437,7 @@
   },
   {
    "id": "20260917-09",
-   "version": 1,
+   "version": null,
    "title": "反町隆史、ランバンスポールの新アンバサダー",
    "status": "new",
    "type": "C",
@@ -452,7 +452,7 @@
   },
   {
    "id": "20260917-08",
-   "version": 1,
+   "version": null,
    "title": "窪塚洋介、特注グリーンフォークが話題",
    "status": "new",
    "type": "B",
@@ -467,7 +467,7 @@
   },
   {
    "id": "20260917-07",
-   "version": 2,
+   "version": null,
    "title": "PGAツアーアメリカズで58達成",
    "status": "new",
    "type": "B",
@@ -483,7 +483,7 @@
   },
   {
    "id": "20260917-06",
-   "version": 1,
+   "version": null,
    "title": "ベティナルディ×グースアイランド、限定パター",
    "status": "new",
    "type": "D",
@@ -498,7 +498,7 @@
   },
   {
    "id": "20260917-05",
-   "version": 1,
+   "version": null,
    "title": "MARK & LONA、スカルカモ新作13型",
    "status": "new",
    "type": "C",
@@ -513,7 +513,7 @@
   },
   {
    "id": "20260917-04",
-   "version": 1,
+   "version": null,
    "title": "テーラーメイド×UA、軍モノ着想の新作",
    "status": "new",
    "type": "C",
@@ -528,7 +528,7 @@
   },
   {
    "id": "20260917-03",
-   "version": 1,
+   "version": null,
    "title": "元プロ野球・今江敏晃、1ヶ月で66到達",
    "status": "new",
    "type": "B",
@@ -543,7 +543,7 @@
   },
   {
    "id": "20260917-02",
-   "version": 1,
+   "version": null,
    "title": "クマ出没、国スポ予選のゴルフ決勝中止",
    "status": "new",
    "type": "B",
@@ -558,7 +558,7 @@
   },
   {
    "id": "20260917-01",
-   "version": 1,
+   "version": null,
    "title": "山下美夢有、プレーオフ制し国内メジャー3冠",
    "status": "new",
    "type": "A",
@@ -573,7 +573,7 @@
   },
   {
    "id": "20260914-11",
-   "version": 2,
+   "version": null,
    "title": "米初の「歩ける屋内18ホール」、設計はファジオ",
    "status": "new",
    "type": "D",
@@ -588,7 +588,7 @@
   },
   {
    "id": "20260914-09",
-   "version": 3,
+   "version": null,
    "title": "小川に入って考えていたらボールが動いた。1打罰。",
    "status": "new",
    "type": "B",
@@ -607,7 +607,7 @@
  "posted_recent": [
   {
    "id": "20260916-04",
-   "version": 4,
+   "version": null,
    "title": "ベイル、ハンデ1.1でオーバーグと同組",
    "status": "posted",
    "type": "D",
@@ -636,7 +636,7 @@
   },
   {
    "id": "20260914-02",
-   "version": 6,
+   "version": null,
    "title": "夫婦で同じ9番ホールにホールインワン、妻の一打はアルバトロスでもあった",
    "status": "posted",
    "type": "B",
@@ -655,7 +655,7 @@
   },
   {
    "id": "20260915-19",
-   "version": 4,
+   "version": null,
    "title": "LIVゴルフが破産法申請、次は選手がオーナーに",
    "status": "posted",
    "type": "D",
@@ -675,7 +675,7 @@
   },
   {
    "id": "20260915-14",
-   "version": 4,
+   "version": null,
    "title": "キャロウェイ×CLUBHAUS第3弾、90年代ビッグバーサ柄",
    "status": "posted",
    "type": "C",
@@ -695,7 +695,7 @@
   },
   {
    "id": "20260915-11",
-   "version": 5,
+   "version": null,
    "title": "「勝てたら500ドル」名門クラブ前でヒッチハイク",
    "status": "posted",
    "type": "B",
@@ -715,7 +715,7 @@
   },
   {
    "id": "20260915-09",
-   "version": 4,
+   "version": null,
    "title": "ヴィンテージのオークリーのバッグが、ジャケットに",
    "status": "posted",
    "type": "C",
@@ -735,7 +735,7 @@
   },
   {
    "id": "20260915-06",
-   "version": 4,
+   "version": null,
    "title": "少女時代スヨン×KISS ON THE GREEN、初コラボ",
    "status": "posted",
    "type": "C",
@@ -755,7 +755,7 @@
   },
   {
    "id": "20260915-05",
-   "version": 6,
+   "version": null,
    "title": "AI解説者「ダフ・フォアマン」が実況デビュー",
    "status": "posted",
    "type": "D",
@@ -776,7 +776,7 @@
   },
   {
    "id": "20260915-04",
-   "version": 6,
+   "version": null,
    "title": "カプルス、打った瞬間に背を向けてチップイン",
    "status": "posted",
    "type": "A",
@@ -796,7 +796,7 @@
   },
   {
    "id": "20260915-03",
-   "version": 5,
+   "version": null,
    "title": "会員は5〜18歳だけ、子ども専用9ホールが着工へ",
    "status": "posted",
    "type": "B",
