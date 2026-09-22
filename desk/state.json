@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T14:40+09:00",
+ "generated_at": "2026-09-22T16:41+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -9,30 +9,12 @@
  },
  "counts": {
   "new": 42,
-  "held": 1,
-  "approved": 4,
+  "held": 2,
+  "approved": 3,
   "failed": 0
  },
  "approved": [
   {
-   "id": "20260916-10",
-   "title": "ケビン・ハート×Fabletics、ゴルフ19型",
-   "status": "approved",
-   "type": "C",
-   "kicker": "9月15日発売、米・加・欧",
-   "summary": "米アクティブウェアのFableticsが、長年のパートナーであるコメディアンのケビン・ハートとゴルフコレクション「Kevin Hart x Fabletics」を9月15日に発売。メンズ・ウィメンズ計19型で価格は29.95〜164.95ドル、サイズはXXS〜4X。色はブラック、ホワイト、カーキ、グリーン。メンズはポロ、クルーザージャケット、ゴルフショーツ、クォータージップフーディ、ジョガー。ウィメンズはハイウエストレギンス、スカート、ブラ内蔵タンク、ミニドレス。ハートの新しいシグネチャーロゴが初登場し、妻のエニコとビジネスパートナーのロン・\"ボス\"・エバーラインが出演するキャンペーン「Get Your Hart-On」も。販売はFableticsのサイトと米・カナダ・欧州の135店舗以上で、日本での販売の記載はなし。写真が取得できずテキスト型。",
-   "post_date": "2026-09-22",
-   "post_time": "21:00",
-   "source_name": "GlobeNewswire",
-   "source_url": "https://www.globenewswire.com/news-release/2026/09/15/3362146/0/en/fabletics-and-kevin-hart-tee-up-a-fresh-take-on-golf-style.html",
-   "found_on": "2026-09-16",
-   "mode": "text",
-   "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
-   "updated_at": "2026-09-16T13:03:35.170Z",
-   "n_images": 0
-  },
-  {
-   "id": "20260914-10",
    "title": "ソウル発sunlovetour×NB、Minimusで第2弾",
    "status": "approved",
    "type": "C",
@@ -43,10 +25,12 @@
    "source_name": "Hypebeast",
    "source_url": "https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info",
    "found_on": "2026-09-14",
-   "updated_at": "2026-09-16T13:26:55.359Z"
+   "updated_at": "2026-09-16T13:26:55.359Z",
+   "id": "20260914-10",
+   "version": 2,
+   "n_images": 0
   },
   {
-   "id": "20260918-02",
    "title": "AIがスイングを再現、韓国発ゴルフロボット",
    "status": "approved",
    "type": "B",
@@ -60,10 +44,11 @@
    "mode": "photo",
    "headline_photo": "AIがスイング再現\n韓国発ゴルフロボット",
    "updated_at": "2026-09-18T03:45:38.504Z",
+   "id": "20260918-02",
+   "version": 2,
    "n_images": 2
   },
   {
-   "id": "20260918-03",
    "title": "HONMA×PATRICK、コラボ第2弾",
    "status": "approved",
    "type": "C",
@@ -77,12 +62,13 @@
    "mode": "photo",
    "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
    "updated_at": "2026-09-18T03:45:43.380Z",
+   "id": "20260918-03",
+   "version": 2,
    "n_images": 3
   }
  ],
  "new": [
   {
-   "id": "20260922-05",
    "title": "女子版TGL「WTGL」、11月開幕へ",
    "status": "new",
    "type": "D",
@@ -93,10 +79,11 @@
    "found_on": "2026-09-22",
    "mode": "photo",
    "headline_photo": "女子版TGL\n11月に開幕",
+   "id": "20260922-05",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260922-04",
    "title": "キャロウェイ×CLUBHAUS第3弾",
    "status": "new",
    "type": "C",
@@ -107,10 +94,11 @@
    "found_on": "2026-09-22",
    "mode": "photo",
    "headline_photo": "ビッグバーサが\nストリートに",
+   "id": "20260922-04",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260922-03",
    "title": "ゼロハリ×UAゴルフ、コラボ第4弾",
    "status": "new",
    "type": "C",
@@ -121,10 +109,11 @@
    "found_on": "2026-09-22",
    "mode": "photo",
    "headline_photo": "ゼロハリ×UA\nコラボ第4弾",
+   "id": "20260922-03",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260922-02",
    "title": "夫婦そろって同じホールでエース",
    "status": "new",
    "type": "B",
@@ -135,10 +124,11 @@
    "found_on": "2026-09-22",
    "mode": "ai",
    "headline_photo": "夫婦そろって\n同じ穴でまさかの一打",
+   "id": "20260922-02",
+   "version": 1,
    "n_images": 0
   },
   {
-   "id": "20260922-01",
    "title": "プロショップに車が激突、3人搬送",
    "status": "new",
    "type": "B",
@@ -149,10 +139,11 @@
    "found_on": "2026-09-22",
    "mode": "photo",
    "headline_photo": "プロショップに車が激突\n3人搬送も軽傷",
+   "id": "20260922-01",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260921-06",
    "title": "A.P.C. GOLF×Cph/Golf、全18型が発売",
    "status": "new",
    "type": "C",
@@ -163,10 +154,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "フレンチと\nストリートの融合",
+   "id": "20260921-06",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260921-05",
    "title": "Sanrio Sports、2026秋冬の新作ゴルフウェア",
    "status": "new",
    "type": "C",
@@ -177,10 +169,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "サンリオが描く\n秋冬のゴルフウェア",
+   "id": "20260921-05",
+   "version": 1,
    "n_images": 3
   },
   {
-   "id": "20260921-04",
    "title": "ペブルビーチ16番、名物の木が消えた",
    "status": "new",
    "type": "B",
@@ -191,10 +184,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "ペブルビーチ16番\n名物の木が消えた",
+   "id": "20260921-04",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260921-03",
    "title": "佐久間朱莉、優勝の副賞は452万円の新車",
    "status": "new",
    "type": "B",
@@ -205,10 +199,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "優勝賞金とは別に\n452万円の新車も",
+   "id": "20260921-03",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260921-02",
    "title": "神谷そら、連覇目前でまさかの池ポチャ",
    "status": "new",
    "type": "B",
@@ -219,10 +214,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "連覇目前で\n痛恨の池ポチャ",
+   "id": "20260921-02",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260921-01",
    "title": "内藤寛太郎、史上最長22年で初V",
    "status": "new",
    "type": "A",
@@ -233,10 +229,11 @@
    "found_on": "2026-09-21",
    "mode": "photo",
    "headline_photo": "史上最長22年339日\n内藤寛太郎、悲願の初V",
+   "id": "20260921-01",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260920-08",
    "title": "アマ世界大会、ターンベリーで開幕へ",
    "status": "new",
    "type": "D",
@@ -247,10 +244,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "アマ世界大会\nターンベリーへ",
+   "id": "20260920-08",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-07",
    "title": "TRUE、本社をゴルフ場に移転",
    "status": "new",
    "type": "D",
@@ -261,10 +259,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "本社を\nゴルフ場に移転",
+   "id": "20260920-07",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260920-06",
    "title": "松井珠理奈、ゴルフデビュー",
    "status": "new",
    "type": "C",
@@ -275,10 +274,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "松井珠理奈が\nゴルフデビュー",
+   "id": "20260920-06",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-05",
    "title": "ホンダ新型にキャディバッグ何個？",
    "status": "new",
    "type": "B",
@@ -289,10 +289,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "新型プレリュードに\nバッグ何個積める？",
+   "id": "20260920-05",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-04",
    "title": "金田久美子、ド派手キャディーバッグ",
    "status": "new",
    "type": "B",
@@ -303,10 +304,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "過去一のお気に入り\nド派手キャディーバッグ",
+   "id": "20260920-04",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-03",
    "title": "17歳アマ、ドラコン女王を2連覇",
    "status": "new",
    "type": "B",
@@ -317,10 +319,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "17歳アマが\n270yd超え連覇",
+   "id": "20260920-03",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-02",
    "title": "河本結、10番でOB3発の「10」",
    "status": "new",
    "type": "B",
@@ -331,10 +334,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "10番で「10」\n自己ワースト更新",
+   "id": "20260920-02",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260920-01",
    "title": "山下美夢有、石川に1000万円を寄付",
    "status": "new",
    "type": "A",
@@ -345,10 +349,11 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "石川に1000万円\n母の故郷へ恩返し",
+   "id": "20260920-01",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260919-07",
    "title": "マクレガー、ミニドライバー市場に参入",
    "status": "new",
    "type": "D",
@@ -359,10 +364,11 @@
    "found_on": "2026-09-19",
    "mode": "photo",
    "headline_photo": "ドライバーと\nFWの間、参入",
+   "id": "20260919-07",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260919-06",
    "title": "BIG MAX×オーストリア代表、フルコレクションに",
    "status": "new",
    "type": "D",
@@ -373,10 +379,11 @@
    "found_on": "2026-09-19",
    "mode": "photo",
    "headline_photo": "バッグから\n小物までフル拡大",
+   "id": "20260919-06",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260919-05",
    "title": "Touch of Grace、秋冬新作ニット3型",
    "status": "new",
    "type": "C",
@@ -387,10 +394,11 @@
    "found_on": "2026-09-19",
    "mode": "photo",
    "headline_photo": "秋冬の新作ニット\n3型、9月18日発売",
+   "id": "20260919-05",
+   "version": 1,
    "n_images": 3
   },
   {
-   "id": "20260919-04",
    "title": "ジョニー・オー、Cal大男子ゴルフの新パートナー",
    "status": "new",
    "type": "C",
@@ -400,10 +408,11 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-17/industry-notes-thursday-september-17-2026",
    "found_on": "2026-09-19",
    "mode": "text",
+   "id": "20260919-04",
+   "version": 1,
    "n_images": 0
   },
   {
-   "id": "20260919-03",
    "title": "10歳、116ヤードのパー3でホールインワン",
    "status": "new",
    "type": "B",
@@ -414,10 +423,11 @@
    "found_on": "2026-09-19",
    "mode": "ai",
    "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260919-03",
+   "version": 2,
    "n_images": 0
   },
   {
-   "id": "20260919-02",
    "title": "ワニをシチメンチョウの群れが追いかけた",
    "status": "new",
    "type": "B",
@@ -435,10 +445,11 @@
     "start": 0
    },
    "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260919-02",
+   "version": 2,
    "n_images": 0
   },
   {
-   "id": "20260919-01",
    "title": "ラウンド中にキャディ降板。直前は水上飛行機遊覧",
    "status": "new",
    "type": "B",
@@ -456,10 +467,11 @@
     "source_type": "personal",
     "start": 0
    },
+   "id": "20260919-01",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260918-07",
    "title": "ゴルフ場の芝刈り、ロボットが担う",
    "status": "new",
    "type": "B",
@@ -470,10 +482,11 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "芝刈りロボットが\n夜間も自律走行",
+   "id": "20260918-07",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260918-06",
    "title": "パリ五輪会場、地下鉄工事で大改修",
    "status": "new",
    "type": "D",
@@ -484,10 +497,11 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "五輪会場が\n地下鉄工事で大改修",
+   "id": "20260918-06",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260918-05",
    "title": "「発砲事件」の正体はゴルフボールだった",
    "status": "new",
    "type": "B",
@@ -498,10 +512,11 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "窓を割ったのは\n弾丸ではなくゴルフ球",
+   "id": "20260918-05",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260918-04",
    "title": "ラコステ×CLUBHAUSが限定コラボ",
    "status": "new",
    "type": "C",
@@ -512,10 +527,11 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "ラコステが\n大阪の名店とコラボ",
+   "id": "20260918-04",
+   "version": 1,
    "n_images": 3
   },
   {
-   "id": "20260917-10",
    "title": "ゼクシオ、2027年干支ボール「未」発売",
    "status": "new",
    "type": "B",
@@ -526,10 +542,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "2027年干支ボール\nゼクシオ「未」限定発売",
+   "id": "20260917-10",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-09",
    "title": "反町隆史、ランバンスポールの新アンバサダー",
    "status": "new",
    "type": "C",
@@ -540,10 +557,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "反町隆史が新アンバサダー\nランバンスポール",
+   "id": "20260917-09",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-08",
    "title": "窪塚洋介、特注グリーンフォークが話題",
    "status": "new",
    "type": "B",
@@ -554,10 +572,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "特注グリーンフォーク\n窪塚洋介がこだわり抜く",
+   "id": "20260917-08",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-07",
    "title": "PGAツアーアメリカズで58達成",
    "status": "new",
    "type": "B",
@@ -569,10 +588,11 @@
    "mode": "ai",
    "headline_photo": "12アンダー58\nアップランズGCで新記録",
    "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260917-07",
+   "version": 2,
    "n_images": 0
   },
   {
-   "id": "20260917-06",
    "title": "ベティナルディ×グースアイランド、限定パター",
    "status": "new",
    "type": "D",
@@ -583,10 +603,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "黄色い限定パター\nベティナルディ×ビール",
+   "id": "20260917-06",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-05",
    "title": "MARK & LONA、スカルカモ新作13型",
    "status": "new",
    "type": "C",
@@ -597,10 +618,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "スカルカモの新作13型\nMARK & LONA新作",
+   "id": "20260917-05",
+   "version": 1,
    "n_images": 2
   },
   {
-   "id": "20260917-04",
    "title": "テーラーメイド×UA、軍モノ着想の新作",
    "status": "new",
    "type": "C",
@@ -611,10 +633,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "9回目のコラボ発売\nテーラーメイド×UA",
+   "id": "20260917-04",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-03",
    "title": "元プロ野球・今江敏晃、1ヶ月で66到達",
    "status": "new",
    "type": "B",
@@ -625,10 +648,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "71→66に1カ月\n元プロ野球・今江敏晃",
+   "id": "20260917-03",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-02",
    "title": "クマ出没、国スポ予選のゴルフ決勝中止",
    "status": "new",
    "type": "B",
@@ -639,10 +663,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "クマ出没で決勝中止\n国スポ予選、青森",
+   "id": "20260917-02",
+   "version": 1,
    "n_images": 1
   },
   {
-   "id": "20260917-01",
    "title": "山下美夢有、プレーオフ制し国内メジャー3冠",
    "status": "new",
    "type": "A",
@@ -653,10 +678,11 @@
    "found_on": "2026-09-17",
    "mode": "photo",
    "headline_photo": "国内メジャー3冠達成\n山下美夢有、劇的V",
+   "id": "20260917-01",
+   "version": 1,
    "n_images": 3
   },
   {
-   "id": "20260914-11",
    "title": "米初の「歩ける屋内18ホール」、設計はファジオ",
    "status": "new",
    "type": "D",
@@ -666,10 +692,12 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-08-26/citygolf-usa-partners-with-fazio-design-to-build-americas-first-18-hole-indoor-golf-courses",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z"
+   "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260914-11",
+   "version": 2,
+   "n_images": 0
   },
   {
-   "id": "20260914-09",
    "title": "小川に入って考えていたらボールが動いた。1打罰。",
    "status": "new",
    "type": "B",
@@ -680,12 +708,29 @@
    "found_on": "2026-09-14",
    "mode": "ai",
    "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260914-09",
+   "version": 3,
    "n_images": 0
   }
  ],
  "held": [
   {
-   "id": "20260916-09",
+   "title": "ケビン・ハート×Fabletics、ゴルフ19型",
+   "status": "held",
+   "type": "C",
+   "kicker": "9月15日発売、米・加・欧",
+   "summary": "米アクティブウェアのFableticsが、長年のパートナーであるコメディアンのケビン・ハートとゴルフコレクション「Kevin Hart x Fabletics」を9月15日に発売。メンズ・ウィメンズ計19型で価格は29.95〜164.95ドル、サイズはXXS〜4X。色はブラック、ホワイト、カーキ、グリーン。メンズはポロ、クルーザージャケット、ゴルフショーツ、クォータージップフーディ、ジョガー。ウィメンズはハイウエストレギンス、スカート、ブラ内蔵タンク、ミニドレス。ハートの新しいシグネチャーロゴが初登場し、妻のエニコとビジネスパートナーのロン・\"ボス\"・エバーラインが出演するキャンペーン「Get Your Hart-On」も。販売はFableticsのサイトと米・カナダ・欧州の135店舗以上で、日本での販売の記載はなし。写真が取得できずテキスト型。",
+   "source_name": "GlobeNewswire",
+   "source_url": "https://www.globenewswire.com/news-release/2026/09/15/3362146/0/en/fabletics-and-kevin-hart-tee-up-a-fresh-take-on-golf-style.html",
+   "found_on": "2026-09-16",
+   "mode": "text",
+   "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
+   "updated_at": "2026-09-22T07:41:23.607Z",
+   "id": "20260916-10",
+   "version": 3,
+   "n_images": 0
+  },
+  {
    "title": "同時に打った2人の球がフェアウェイで衝突、処置は？",
    "status": "held",
    "type": "B",
@@ -697,13 +742,14 @@
    "mode": "ai",
    "headline_photo": "同時に打った球が衝突\n処置は「そのまま」",
    "updated_at": "2026-09-21T06:41:41.250Z",
+   "id": "20260916-09",
+   "version": 4,
    "n_images": 0
   }
  ],
  "failed": [],
  "posted_recent": [
   {
-   "id": "20260916-06",
    "title": "「ダサいパンツ」で20年、完売のチャリティコンペ",
    "status": "posted",
    "type": "B",
@@ -719,10 +765,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdjS87tGzai/",
    "posted_at": "2026-09-21T13:44:17Z",
    "updated_at": "2026-09-21T13:44:20Z",
+   "id": "20260916-06",
+   "version": 3,
    "n_images": 3
   },
   {
-   "id": "20260916-04",
    "title": "ベイル、ハンデ1.1でオーバーグと同組",
    "status": "posted",
    "type": "D",
@@ -747,10 +794,11 @@
    "posted_at": "2026-09-20T16:47:37Z",
    "video_error": "記事動画（YouTube）の取得失敗: bot確認でブロック（yt-dlp: Sign in to confirm you’re not a bot）",
    "updated_at": "2026-09-16T08:59:28.585Z",
+   "id": "20260916-04",
+   "version": 4,
    "n_images": 2
   },
   {
-   "id": "20260914-02",
    "title": "夫婦で同じ9番ホールにホールインワン、妻の一打はアルバトロスでもあった",
    "status": "posted",
    "type": "B",
@@ -764,10 +812,12 @@
    "mode": "text",
    "ig_permalink": "https://www.instagram.com/p/DdhDCf3nCJ5/",
    "posted_at": "2026-09-20T16:46:44Z",
-   "updated_at": "2026-09-19T05:20:00.000Z"
+   "updated_at": "2026-09-19T05:20:00.000Z",
+   "id": "20260914-02",
+   "version": 6,
+   "n_images": 0
   },
   {
-   "id": "20260915-19",
    "title": "LIVゴルフが破産法申請、次は選手がオーナーに",
    "status": "posted",
    "type": "D",
@@ -783,10 +833,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdeQFf_oKLH/",
    "posted_at": "2026-09-19T14:43:01.000Z",
    "updated_at": "2026-09-15T13:21:39.556Z",
+   "id": "20260915-19",
+   "version": 4,
    "n_images": 1
   },
   {
-   "id": "20260915-14",
    "title": "キャロウェイ×CLUBHAUS第3弾、90年代ビッグバーサ柄",
    "status": "posted",
    "type": "C",
@@ -802,10 +853,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdeCeUBoPuL/",
    "posted_at": "2026-09-19T12:44:05Z",
    "updated_at": "2026-09-15T10:00:05.719Z",
+   "id": "20260915-14",
+   "version": 4,
    "n_images": 3
   },
   {
-   "id": "20260915-11",
    "title": "「勝てたら500ドル」名門クラブ前でヒッチハイク",
    "status": "posted",
    "type": "B",
@@ -821,10 +873,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdbrhlmG5b8/",
    "posted_at": "2026-09-18T14:45:04Z",
    "updated_at": "2026-09-18T14:45:04Z",
+   "id": "20260915-11",
+   "version": 5,
    "n_images": 0
   },
   {
-   "id": "20260915-09",
    "title": "ヴィンテージのオークリーのバッグが、ジャケットに",
    "status": "posted",
    "type": "C",
@@ -840,10 +893,11 @@
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
    "updated_at": "2026-09-15T09:59:30.182Z",
+   "id": "20260915-09",
+   "version": 4,
    "n_images": 3
   },
   {
-   "id": "20260915-06",
    "title": "少女時代スヨン×KISS ON THE GREEN、初コラボ",
    "status": "posted",
    "type": "C",
@@ -859,10 +913,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdZGbshHMmh/",
    "posted_at": "2026-09-17T14:42:28+00:00",
    "updated_at": "2026-09-15T09:59:12.145Z",
+   "id": "20260915-06",
+   "version": 4,
    "n_images": 3
   },
   {
-   "id": "20260915-05",
    "title": "AI解説者「ダフ・フォアマン」が実況デビュー",
    "status": "posted",
    "type": "D",
@@ -879,10 +934,11 @@
    "ig_permalink": "https://www.instagram.com/p/DdY48W-mhr7/",
    "posted_at": "2026-09-17T12:44:35+00:00",
    "updated_at": "2026-09-17T08:25:00.000Z",
+   "id": "20260915-05",
+   "version": 6,
    "n_images": 3
   },
   {
-   "id": "20260915-04",
    "title": "カプルス、打った瞬間に背を向けてチップイン",
    "status": "posted",
    "type": "A",
@@ -898,10 +954,18 @@
    "ig_permalink": "https://www.instagram.com/p/DdWhnOjFd0N/",
    "posted_at": "2026-09-16T14:42:16+00:00",
    "updated_at": "2026-09-16T01:05:00.000Z",
+   "id": "20260915-04",
+   "version": 6,
    "n_images": 2
   }
  ],
  "processed_issues": {
+  "3": {
+   "at": "2026-09-22T16:41+09:00",
+   "ok": true,
+   "summary": "20260916-10 保留",
+   "closed": true
+  },
   "2": {
    "at": "2026-09-21T15:42+09:00",
    "ok": true,
