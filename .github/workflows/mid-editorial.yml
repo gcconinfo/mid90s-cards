@@ -1,0 +1,31 @@
+name: Mid editorial scheduler
+on:
+  schedule:
+    - cron: '7,17,27,37,47,57 * * * *'
+  workflow_dispatch:
+permissions:
+  id-token: write
+concurrency:
+  group: mid-editorial
+  cancel-in-progress: false
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Process approved Mid work
+        env:
+          MID_ORIGIN: https://mid90s-editorial-desk.yukanamaru.chatgpt.site
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          origin = os.environ['MID_ORIGIN']
+          url = os.environ['ACTIONS_ID_TOKEN_REQUEST_URL'] + '&audience=' + urllib.parse.quote(origin, safe='')
+          request = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['ACTIONS_ID_TOKEN_REQUEST_TOKEN']})
+          with urllib.request.urlopen(request, timeout=30) as response:
+              token = json.load(response)['value']
+          request = urllib.request.Request(origin + '/api/pipeline/tick', data=b'{}', headers={'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json'}, method='POST')
+          with urllib.request.urlopen(request, timeout=360) as response:
+              result = json.load(response)
+          print(json.dumps({'ok': result.get('ok'), 'active': result.get('active'), 'processed': result.get('processed') or 0}))
+          PY
