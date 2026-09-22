@@ -1,15 +1,16 @@
 ---
 tags: [mid90s, auto]
-updated: 2026-09-22 22:44
+updated: 2026-09-22 23:47
 ---
 > 自動生成（投稿ルーティンが毎時36分ごろ更新 → Mac のスケジュールタスクが Vault に取り込む）。手で編集しない。決定や考えは [[Mid 90s Club]] に書く。
 
 # 投稿ログ（@golfpostjp）
 
-投稿数: 15
+投稿数: 16
 
 ## 2026-09
 
+- 2026-09-22 23:46 · STYLE · ソウル発sunlovetour×NB、Minimusで第2弾 · [Instagram](https://www.instagram.com/p/Ddl-12KHIR3/) · [Hypebeast](https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info) · テキスト型 · `20260914-10`
 - 2026-09-21 22:44 · 珍ネタ · 「ダサいパンツ」で20年、完売のチャリティコンペ · [Instagram](https://www.instagram.com/p/DdjS87tGzai/) · [FOX 9](https://www.fox9.com/news/20th-annual-ian-leonard-bad-pants-open-2026-golf-tournament) · 写真3枚 · `20260916-06`
 - 2026-09-21 01:47 · CULTURE · ベイル、ハンデ1.1でオーバーグと同組 · [Instagram](https://www.instagram.com/p/DdhDI6dIFS5/) · [DP World Tour](https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/tee-times-and-celebrities-for-2026-bmw-pga-championship-pro-am/) · 写真2枚 · `20260916-04`
 - 2026-09-21 01:46 · 珍ネタ · 夫婦で同じ9番ホールにホールインワン、妻の一打はアルバトロスでもあった · [Instagram](https://www.instagram.com/p/DdhDCf3nCJ5/) · [Australian Golf Digest](https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/) · テキスト型 · `20260914-02`
