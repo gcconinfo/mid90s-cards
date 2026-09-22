@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T05:44+09:00",
+ "generated_at": "2026-09-23T08:40+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -17,6 +17,7 @@
   {
    "id": "20260918-02",
    "version": 2,
+   "n_images": 2,
    "title": "AIがスイングを再現、韓国発ゴルフロボット",
    "status": "approved",
    "type": "B",
@@ -29,12 +30,12 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "AIがスイング再現\n韓国発ゴルフロボット",
-   "updated_at": "2026-09-18T03:45:38.504Z",
-   "n_images": 2
+   "updated_at": "2026-09-18T03:45:38.504Z"
   },
   {
    "id": "20260918-03",
    "version": 2,
+   "n_images": 3,
    "title": "HONMA×PATRICK、コラボ第2弾",
    "status": "approved",
    "type": "C",
@@ -47,14 +48,14 @@
    "found_on": "2026-09-18",
    "mode": "photo",
    "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
-   "updated_at": "2026-09-18T03:45:43.380Z",
-   "n_images": 3
+   "updated_at": "2026-09-18T03:45:43.380Z"
   }
  ],
  "new": [
   {
    "id": "20260922-05",
    "version": 1,
+   "n_images": 2,
    "title": "女子版TGL「WTGL」、11月開幕へ",
    "status": "new",
    "type": "D",
@@ -64,12 +65,12 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-16/wtgl-espn-ion-announce-inaugural-season-schedule-featuring-5-teams-of-lpga-stars",
    "found_on": "2026-09-22",
    "mode": "photo",
-   "headline_photo": "女子版TGL\n11月に開幕",
-   "n_images": 2
+   "headline_photo": "女子版TGL\n11月に開幕"
   },
   {
    "id": "20260922-04",
    "version": 1,
+   "n_images": 2,
    "title": "キャロウェイ×CLUBHAUS第3弾",
    "status": "new",
    "type": "C",
@@ -79,12 +80,12 @@
    "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000033352.html",
    "found_on": "2026-09-22",
    "mode": "photo",
-   "headline_photo": "ビッグバーサが\nストリートに",
-   "n_images": 2
+   "headline_photo": "ビッグバーサが\nストリートに"
   },
   {
    "id": "20260922-03",
    "version": 1,
+   "n_images": 2,
    "title": "ゼロハリ×UAゴルフ、コラボ第4弾",
    "status": "new",
    "type": "C",
@@ -94,12 +95,12 @@
    "source_url": "https://zerohalliburton.jp/blogs/news/golf-%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%B4%E3%83%AB%E3%83%95%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%AC%AC4%E5%BC%BE-9%E6%9C%8825%E6%97%A5%E7%99%BA%E5%A3%B2",
    "found_on": "2026-09-22",
    "mode": "photo",
-   "headline_photo": "ゼロハリ×UA\nコラボ第4弾",
-   "n_images": 2
+   "headline_photo": "ゼロハリ×UA\nコラボ第4弾"
   },
   {
    "id": "20260922-02",
    "version": 1,
+   "n_images": 0,
    "title": "夫婦そろって同じホールでエース",
    "status": "new",
    "type": "B",
@@ -109,12 +110,12 @@
    "source_url": "https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/",
    "found_on": "2026-09-22",
    "mode": "ai",
-   "headline_photo": "夫婦そろって\n同じ穴でまさかの一打",
-   "n_images": 0
+   "headline_photo": "夫婦そろって\n同じ穴でまさかの一打"
   },
   {
    "id": "20260922-01",
    "version": 1,
+   "n_images": 2,
    "title": "プロショップに車が激突、3人搬送",
    "status": "new",
    "type": "B",
@@ -124,12 +125,12 @@
    "source_url": "https://www.boston25news.com/news/local/car-crashes-into-golf-pro-shop-newton-injures-three/RZ3FIO3ITNEU5BHQGTC2J44MDI/",
    "found_on": "2026-09-22",
    "mode": "photo",
-   "headline_photo": "プロショップに車が激突\n3人搬送も軽傷",
-   "n_images": 2
+   "headline_photo": "プロショップに車が激突\n3人搬送も軽傷"
   },
   {
    "id": "20260921-06",
    "version": 1,
+   "n_images": 2,
    "title": "A.P.C. GOLF×Cph/Golf、全18型が発売",
    "status": "new",
    "type": "C",
@@ -139,12 +140,12 @@
    "source_url": "https://bruder.golfdigest.co.jp/entry/fashion/2026/09/1/070000",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "フレンチと\nストリートの融合",
-   "n_images": 2
+   "headline_photo": "フレンチと\nストリートの融合"
   },
   {
    "id": "20260921-05",
    "version": 1,
+   "n_images": 3,
    "title": "Sanrio Sports、2026秋冬の新作ゴルフウェア",
    "status": "new",
    "type": "C",
@@ -154,12 +155,12 @@
    "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000181244.html",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "サンリオが描く\n秋冬のゴルフウェア",
-   "n_images": 3
+   "headline_photo": "サンリオが描く\n秋冬のゴルフウェア"
   },
   {
    "id": "20260921-04",
    "version": 1,
+   "n_images": 1,
    "title": "ペブルビーチ16番、名物の木が消えた",
    "status": "new",
    "type": "B",
@@ -169,12 +170,12 @@
    "source_url": "https://golf.com/news/shape-shifting-pebble-beach-players-talking/",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "ペブルビーチ16番\n名物の木が消えた",
-   "n_images": 1
+   "headline_photo": "ペブルビーチ16番\n名物の木が消えた"
   },
   {
    "id": "20260921-03",
    "version": 1,
+   "n_images": 2,
    "title": "佐久間朱莉、優勝の副賞は452万円の新車",
    "status": "new",
    "type": "B",
@@ -184,12 +185,12 @@
    "source_url": "https://egolf.jp/tournews/255886/",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "優勝賞金とは別に\n452万円の新車も",
-   "n_images": 2
+   "headline_photo": "優勝賞金とは別に\n452万円の新車も"
   },
   {
    "id": "20260921-02",
    "version": 1,
+   "n_images": 2,
    "title": "神谷そら、連覇目前でまさかの池ポチャ",
    "status": "new",
    "type": "B",
@@ -199,12 +200,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/jlpga/article/195179/1/",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "連覇目前で\n痛恨の池ポチャ",
-   "n_images": 2
+   "headline_photo": "連覇目前で\n痛恨の池ポチャ"
   },
   {
    "id": "20260921-01",
    "version": 1,
+   "n_images": 2,
    "title": "内藤寛太郎、史上最長22年で初V",
    "status": "new",
    "type": "A",
@@ -214,12 +215,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/jgto/article/195183/1/",
    "found_on": "2026-09-21",
    "mode": "photo",
-   "headline_photo": "史上最長22年339日\n内藤寛太郎、悲願の初V",
-   "n_images": 2
+   "headline_photo": "史上最長22年339日\n内藤寛太郎、悲願の初V"
   },
   {
    "id": "20260920-08",
    "version": 1,
+   "n_images": 1,
    "title": "アマ世界大会、ターンベリーで開幕へ",
    "status": "new",
    "type": "D",
@@ -229,12 +230,12 @@
    "source_url": "https://golf.com/news/bridges-cup-2026-meet-us-international-teams/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "アマ世界大会\nターンベリーへ",
-   "n_images": 1
+   "headline_photo": "アマ世界大会\nターンベリーへ"
   },
   {
    "id": "20260920-07",
    "version": 1,
+   "n_images": 2,
    "title": "TRUE、本社をゴルフ場に移転",
    "status": "new",
    "type": "D",
@@ -244,12 +245,12 @@
    "source_url": "https://thegolfwire.com/true-linkswear-headquarters-to-oakbrook",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "本社を\nゴルフ場に移転",
-   "n_images": 2
+   "headline_photo": "本社を\nゴルフ場に移転"
   },
   {
    "id": "20260920-06",
    "version": 1,
+   "n_images": 1,
    "title": "松井珠理奈、ゴルフデビュー",
    "status": "new",
    "type": "C",
@@ -259,12 +260,12 @@
    "source_url": "https://egolf.jp/sns/255707/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "松井珠理奈が\nゴルフデビュー",
-   "n_images": 1
+   "headline_photo": "松井珠理奈が\nゴルフデビュー"
   },
   {
    "id": "20260920-05",
    "version": 1,
+   "n_images": 1,
    "title": "ホンダ新型にキャディバッグ何個？",
    "status": "new",
    "type": "B",
@@ -274,12 +275,12 @@
    "source_url": "https://lesson.golfdigest.co.jp/gear/car/article/195010/1/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "新型プレリュードに\nバッグ何個積める？",
-   "n_images": 1
+   "headline_photo": "新型プレリュードに\nバッグ何個積める？"
   },
   {
    "id": "20260920-04",
    "version": 1,
+   "n_images": 1,
    "title": "金田久美子、ド派手キャディーバッグ",
    "status": "new",
    "type": "B",
@@ -289,12 +290,12 @@
    "source_url": "https://egolf.jp/sns/255577/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "過去一のお気に入り\nド派手キャディーバッグ",
-   "n_images": 1
+   "headline_photo": "過去一のお気に入り\nド派手キャディーバッグ"
   },
   {
    "id": "20260920-03",
    "version": 1,
+   "n_images": 1,
    "title": "17歳アマ、ドラコン女王を2連覇",
    "status": "new",
    "type": "B",
@@ -304,12 +305,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/jlpga/article/195136/1/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "17歳アマが\n270yd超え連覇",
-   "n_images": 1
+   "headline_photo": "17歳アマが\n270yd超え連覇"
   },
   {
    "id": "20260920-02",
    "version": 1,
+   "n_images": 1,
    "title": "河本結、10番でOB3発の「10」",
    "status": "new",
    "type": "B",
@@ -319,12 +320,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/jlpga/article/195149/1/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "10番で「10」\n自己ワースト更新",
-   "n_images": 1
+   "headline_photo": "10番で「10」\n自己ワースト更新"
   },
   {
    "id": "20260920-01",
    "version": 1,
+   "n_images": 1,
    "title": "山下美夢有、石川に1000万円を寄付",
    "status": "new",
    "type": "A",
@@ -334,12 +335,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/jlpga/article/195122/1/",
    "found_on": "2026-09-20",
    "mode": "photo",
-   "headline_photo": "石川に1000万円\n母の故郷へ恩返し",
-   "n_images": 1
+   "headline_photo": "石川に1000万円\n母の故郷へ恩返し"
   },
   {
    "id": "20260919-07",
    "version": 1,
+   "n_images": 2,
    "title": "マクレガー、ミニドライバー市場に参入",
    "status": "new",
    "type": "D",
@@ -349,12 +350,12 @@
    "source_url": "https://golfbusinessnews.com/news/new-products/macgregor-launches-new-mac-mini-driver/",
    "found_on": "2026-09-19",
    "mode": "photo",
-   "headline_photo": "ドライバーと\nFWの間、参入",
-   "n_images": 2
+   "headline_photo": "ドライバーと\nFWの間、参入"
   },
   {
    "id": "20260919-06",
    "version": 1,
+   "n_images": 1,
    "title": "BIG MAX×オーストリア代表、フルコレクションに",
    "status": "new",
    "type": "D",
@@ -364,12 +365,12 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-07/big-max-takes-team-golf-to-the-next-level-with-golf-austria-partnership",
    "found_on": "2026-09-19",
    "mode": "photo",
-   "headline_photo": "バッグから\n小物までフル拡大",
-   "n_images": 1
+   "headline_photo": "バッグから\n小物までフル拡大"
   },
   {
    "id": "20260919-05",
    "version": 1,
+   "n_images": 3,
    "title": "Touch of Grace、秋冬新作ニット3型",
    "status": "new",
    "type": "C",
@@ -379,12 +380,12 @@
    "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000181681.html",
    "found_on": "2026-09-19",
    "mode": "photo",
-   "headline_photo": "秋冬の新作ニット\n3型、9月18日発売",
-   "n_images": 3
+   "headline_photo": "秋冬の新作ニット\n3型、9月18日発売"
   },
   {
    "id": "20260919-04",
    "version": 1,
+   "n_images": 0,
    "title": "ジョニー・オー、Cal大男子ゴルフの新パートナー",
    "status": "new",
    "type": "C",
@@ -393,12 +394,12 @@
    "source_name": "First Call Golf",
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-17/industry-notes-thursday-september-17-2026",
    "found_on": "2026-09-19",
-   "mode": "text",
-   "n_images": 0
+   "mode": "text"
   },
   {
    "id": "20260919-03",
    "version": 2,
+   "n_images": 0,
    "title": "10歳、116ヤードのパー3でホールインワン",
    "status": "new",
    "type": "B",
@@ -408,12 +409,12 @@
    "source_url": "https://hoodline.com/2026/09/wooster-third-grader-aces-116-yard-hole-at-elms-country-club/",
    "found_on": "2026-09-19",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260919-02",
    "version": 2,
+   "n_images": 0,
    "title": "ワニをシチメンチョウの群れが追いかけた",
    "status": "new",
    "type": "B",
@@ -430,12 +431,12 @@
     "source_type": "media",
     "start": 0
    },
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260919-01",
    "version": 1,
+   "n_images": 1,
    "title": "ラウンド中にキャディ降板。直前は水上飛行機遊覧",
    "status": "new",
    "type": "B",
@@ -452,12 +453,12 @@
     "seconds": 15,
     "source_type": "personal",
     "start": 0
-   },
-   "n_images": 1
+   }
   },
   {
    "id": "20260918-07",
    "version": 1,
+   "n_images": 2,
    "title": "ゴルフ場の芝刈り、ロボットが担う",
    "status": "new",
    "type": "B",
@@ -467,12 +468,12 @@
    "source_url": "https://www.etnews.com/20260916000342",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "芝刈りロボットが\n夜間も自律走行",
-   "n_images": 2
+   "headline_photo": "芝刈りロボットが\n夜間も自律走行"
   },
   {
    "id": "20260918-06",
    "version": 1,
+   "n_images": 1,
    "title": "パリ五輪会場、地下鉄工事で大改修",
    "status": "new",
    "type": "D",
@@ -482,12 +483,12 @@
    "source_url": "https://www.golfcoursearchitecture.net/content/le-golf-national-to-reopen-albatros-course-in-september-2026-following-paris-metro-driven-redesign",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "五輪会場が\n地下鉄工事で大改修",
-   "n_images": 1
+   "headline_photo": "五輪会場が\n地下鉄工事で大改修"
   },
   {
    "id": "20260918-05",
    "version": 1,
+   "n_images": 1,
    "title": "「発砲事件」の正体はゴルフボールだった",
    "status": "new",
    "type": "B",
@@ -497,12 +498,12 @@
    "source_url": "https://en.sedaily.com/society/2026/09/15/suspected-gunshot-at-korean-building-turns-out-to-be-golf",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "窓を割ったのは\n弾丸ではなくゴルフ球",
-   "n_images": 1
+   "headline_photo": "窓を割ったのは\n弾丸ではなくゴルフ球"
   },
   {
    "id": "20260918-04",
    "version": 1,
+   "n_images": 3,
    "title": "ラコステ×CLUBHAUSが限定コラボ",
    "status": "new",
    "type": "C",
@@ -512,12 +513,12 @@
    "source_url": "https://prtimes.jp/main/html/rd/p/000000254.000007377.html",
    "found_on": "2026-09-18",
    "mode": "photo",
-   "headline_photo": "ラコステが\n大阪の名店とコラボ",
-   "n_images": 3
+   "headline_photo": "ラコステが\n大阪の名店とコラボ"
   },
   {
    "id": "20260917-10",
    "version": 1,
+   "n_images": 1,
    "title": "ゼクシオ、2027年干支ボール「未」発売",
    "status": "new",
    "type": "B",
@@ -527,12 +528,12 @@
    "source_url": "https://www.atpress.ne.jp/news/5731236",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "2027年干支ボール\nゼクシオ「未」限定発売",
-   "n_images": 1
+   "headline_photo": "2027年干支ボール\nゼクシオ「未」限定発売"
   },
   {
    "id": "20260917-09",
    "version": 1,
+   "n_images": 1,
    "title": "反町隆史、ランバンスポールの新アンバサダー",
    "status": "new",
    "type": "C",
@@ -542,12 +543,12 @@
    "source_url": "https://egolf.jp/gear/255232/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "反町隆史が新アンバサダー\nランバンスポール",
-   "n_images": 1
+   "headline_photo": "反町隆史が新アンバサダー\nランバンスポール"
   },
   {
    "id": "20260917-08",
    "version": 1,
+   "n_images": 1,
    "title": "窪塚洋介、特注グリーンフォークが話題",
    "status": "new",
    "type": "B",
@@ -557,12 +558,12 @@
    "source_url": "https://egolf.jp/sns/254520/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "特注グリーンフォーク\n窪塚洋介がこだわり抜く",
-   "n_images": 1
+   "headline_photo": "特注グリーンフォーク\n窪塚洋介がこだわり抜く"
   },
   {
    "id": "20260917-07",
    "version": 2,
+   "n_images": 0,
    "title": "PGAツアーアメリカズで58達成",
    "status": "new",
    "type": "B",
@@ -573,12 +574,12 @@
    "found_on": "2026-09-17",
    "mode": "ai",
    "headline_photo": "12アンダー58\nアップランズGCで新記録",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260917-06",
    "version": 1,
+   "n_images": 1,
    "title": "ベティナルディ×グースアイランド、限定パター",
    "status": "new",
    "type": "D",
@@ -588,12 +589,12 @@
    "source_url": "https://pluggedingolf.com/golf-news-september-15-2026/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "黄色い限定パター\nベティナルディ×ビール",
-   "n_images": 1
+   "headline_photo": "黄色い限定パター\nベティナルディ×ビール"
   },
   {
    "id": "20260917-05",
    "version": 1,
+   "n_images": 2,
    "title": "MARK & LONA、スカルカモ新作13型",
    "status": "new",
    "type": "C",
@@ -603,12 +604,12 @@
    "source_url": "https://prtimes.jp/main/html/rd/p/000000240.000024046.html",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "スカルカモの新作13型\nMARK & LONA新作",
-   "n_images": 2
+   "headline_photo": "スカルカモの新作13型\nMARK & LONA新作"
   },
   {
    "id": "20260917-04",
    "version": 1,
+   "n_images": 1,
    "title": "テーラーメイド×UA、軍モノ着想の新作",
    "status": "new",
    "type": "C",
@@ -618,12 +619,12 @@
    "source_url": "https://golfbros.jp/fashion_taylormade-united-arrows-2026aw-vol9_1265/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "9回目のコラボ発売\nテーラーメイド×UA",
-   "n_images": 1
+   "headline_photo": "9回目のコラボ発売\nテーラーメイド×UA"
   },
   {
    "id": "20260917-03",
    "version": 1,
+   "n_images": 1,
    "title": "元プロ野球・今江敏晃、1ヶ月で66到達",
    "status": "new",
    "type": "B",
@@ -633,12 +634,12 @@
    "source_url": "https://egolf.jp/sns/255309/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "71→66に1カ月\n元プロ野球・今江敏晃",
-   "n_images": 1
+   "headline_photo": "71→66に1カ月\n元プロ野球・今江敏晃"
   },
   {
    "id": "20260917-02",
    "version": 1,
+   "n_images": 1,
    "title": "クマ出没、国スポ予選のゴルフ決勝中止",
    "status": "new",
    "type": "B",
@@ -648,12 +649,12 @@
    "source_url": "https://373news.com/news/local/detail/239471",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "クマ出没で決勝中止\n国スポ予選、青森",
-   "n_images": 1
+   "headline_photo": "クマ出没で決勝中止\n国スポ予選、青森"
   },
   {
    "id": "20260917-01",
    "version": 1,
+   "n_images": 3,
    "title": "山下美夢有、プレーオフ制し国内メジャー3冠",
    "status": "new",
    "type": "A",
@@ -663,12 +664,12 @@
    "source_url": "https://news.golfdigest.co.jp/news/results/jlpga/article/194970/1/",
    "found_on": "2026-09-17",
    "mode": "photo",
-   "headline_photo": "国内メジャー3冠達成\n山下美夢有、劇的V",
-   "n_images": 3
+   "headline_photo": "国内メジャー3冠達成\n山下美夢有、劇的V"
   },
   {
    "id": "20260914-11",
    "version": 2,
+   "n_images": 0,
    "title": "米初の「歩ける屋内18ホール」、設計はファジオ",
    "status": "new",
    "type": "D",
@@ -678,12 +679,12 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-08-26/citygolf-usa-partners-with-fazio-design-to-build-americas-first-18-hole-indoor-golf-courses",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260914-09",
    "version": 3,
+   "n_images": 0,
    "title": "小川に入って考えていたらボールが動いた。1打罰。",
    "status": "new",
    "type": "B",
@@ -693,14 +694,14 @@
    "source_url": "https://www.golfmonthly.com/news/haotong-li-assessed-one-stroke-penalty-in-third-round-of-amgen-irish-open",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   }
  ],
  "held": [
   {
    "id": "20260916-10",
    "version": 3,
+   "n_images": 0,
    "title": "ケビン・ハート×Fabletics、ゴルフ19型",
    "status": "held",
    "type": "C",
@@ -711,12 +712,12 @@
    "found_on": "2026-09-16",
    "mode": "text",
    "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
-   "updated_at": "2026-09-22T07:41:23.607Z",
-   "n_images": 0
+   "updated_at": "2026-09-22T07:41:23.607Z"
   },
   {
    "id": "20260916-09",
    "version": 4,
+   "n_images": 0,
    "title": "同時に打った2人の球がフェアウェイで衝突、処置は？",
    "status": "held",
    "type": "B",
@@ -727,8 +728,7 @@
    "found_on": "2026-09-16",
    "mode": "ai",
    "headline_photo": "同時に打った球が衝突\n処置は「そのまま」",
-   "updated_at": "2026-09-21T06:41:41.250Z",
-   "n_images": 0
+   "updated_at": "2026-09-21T06:41:41.250Z"
   }
  ],
  "failed": [],
@@ -736,6 +736,7 @@
   {
    "id": "20260914-10",
    "version": 3,
+   "n_images": 0,
    "title": "ソウル発sunlovetour×NB、Minimusで第2弾",
    "status": "posted",
    "type": "C",
@@ -749,12 +750,12 @@
    "mode": "text",
    "ig_permalink": "https://www.instagram.com/p/Ddl-12KHIR3/",
    "posted_at": "2026-09-22T14:46:16Z",
-   "updated_at": "2026-09-16T13:26:55.359Z",
-   "n_images": 0
+   "updated_at": "2026-09-16T13:26:55.359Z"
   },
   {
    "id": "20260916-06",
    "version": 3,
+   "n_images": 3,
    "title": "「ダサいパンツ」で20年、完売のチャリティコンペ",
    "status": "posted",
    "type": "B",
@@ -769,12 +770,12 @@
    "headline_photo": "ダサいパンツで20年\n10万ドル超のチャリティ",
    "ig_permalink": "https://www.instagram.com/p/DdjS87tGzai/",
    "posted_at": "2026-09-21T13:44:17Z",
-   "updated_at": "2026-09-21T13:44:20Z",
-   "n_images": 3
+   "updated_at": "2026-09-21T13:44:20Z"
   },
   {
    "id": "20260916-04",
    "version": 4,
+   "n_images": 2,
    "title": "ベイル、ハンデ1.1でオーバーグと同組",
    "status": "posted",
    "type": "D",
@@ -798,12 +799,12 @@
    "ig_permalink": "https://www.instagram.com/p/DdhDI6dIFS5/",
    "posted_at": "2026-09-20T16:47:37Z",
    "video_error": "記事動画（YouTube）の取得失敗: bot確認でブロック（yt-dlp: Sign in to confirm you’re not a bot）",
-   "updated_at": "2026-09-16T08:59:28.585Z",
-   "n_images": 2
+   "updated_at": "2026-09-16T08:59:28.585Z"
   },
   {
    "id": "20260914-02",
    "version": 6,
+   "n_images": 0,
    "title": "夫婦で同じ9番ホールにホールインワン、妻の一打はアルバトロスでもあった",
    "status": "posted",
    "type": "B",
@@ -817,12 +818,12 @@
    "mode": "text",
    "ig_permalink": "https://www.instagram.com/p/DdhDCf3nCJ5/",
    "posted_at": "2026-09-20T16:46:44Z",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260915-19",
    "version": 4,
+   "n_images": 1,
    "title": "LIVゴルフが破産法申請、次は選手がオーナーに",
    "status": "posted",
    "type": "D",
@@ -837,12 +838,12 @@
    "headline_photo": "LIVゴルフが破産法申請\n次は選手がオーナーに",
    "ig_permalink": "https://www.instagram.com/p/DdeQFf_oKLH/",
    "posted_at": "2026-09-19T14:43:01.000Z",
-   "updated_at": "2026-09-15T13:21:39.556Z",
-   "n_images": 1
+   "updated_at": "2026-09-15T13:21:39.556Z"
   },
   {
    "id": "20260915-14",
    "version": 4,
+   "n_images": 3,
    "title": "キャロウェイ×CLUBHAUS第3弾、90年代ビッグバーサ柄",
    "status": "posted",
    "type": "C",
@@ -857,12 +858,12 @@
    "headline_photo": "キャロウェイ×CLUBHAUS\n90年代ビッグバーサ柄",
    "ig_permalink": "https://www.instagram.com/p/DdeCeUBoPuL/",
    "posted_at": "2026-09-19T12:44:05Z",
-   "updated_at": "2026-09-15T10:00:05.719Z",
-   "n_images": 3
+   "updated_at": "2026-09-15T10:00:05.719Z"
   },
   {
    "id": "20260915-11",
    "version": 5,
+   "n_images": 0,
    "title": "「勝てたら500ドル」名門クラブ前でヒッチハイク",
    "status": "posted",
    "type": "B",
@@ -877,12 +878,12 @@
    "headline_photo": "「勝てたら500ドル」\n名門クラブ前でヒッチハイク",
    "ig_permalink": "https://www.instagram.com/p/DdbrhlmG5b8/",
    "posted_at": "2026-09-18T14:45:04Z",
-   "updated_at": "2026-09-18T14:45:04Z",
-   "n_images": 0
+   "updated_at": "2026-09-18T14:45:04Z"
   },
   {
    "id": "20260915-09",
    "version": 4,
+   "n_images": 3,
    "title": "ヴィンテージのオークリーのバッグが、ジャケットに",
    "status": "posted",
    "type": "C",
@@ -897,12 +898,12 @@
    "headline_photo": "ヴィンテージのオークリー\nゴルフバッグがジャケットに",
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
-   "updated_at": "2026-09-15T09:59:30.182Z",
-   "n_images": 3
+   "updated_at": "2026-09-15T09:59:30.182Z"
   },
   {
    "id": "20260915-06",
    "version": 4,
+   "n_images": 3,
    "title": "少女時代スヨン×KISS ON THE GREEN、初コラボ",
    "status": "posted",
    "type": "C",
@@ -917,12 +918,12 @@
    "headline_photo": "少女時代スヨンが初コラボ\nKISS ON THE GREEN",
    "ig_permalink": "https://www.instagram.com/p/DdZGbshHMmh/",
    "posted_at": "2026-09-17T14:42:28+00:00",
-   "updated_at": "2026-09-15T09:59:12.145Z",
-   "n_images": 3
+   "updated_at": "2026-09-15T09:59:12.145Z"
   },
   {
    "id": "20260915-05",
    "version": 6,
+   "n_images": 3,
    "title": "AI解説者「ダフ・フォアマン」が実況デビュー",
    "status": "posted",
    "type": "D",
@@ -938,8 +939,7 @@
    "cover_video": true,
    "ig_permalink": "https://www.instagram.com/p/DdY48W-mhr7/",
    "posted_at": "2026-09-17T12:44:35+00:00",
-   "updated_at": "2026-09-17T08:25:00.000Z",
-   "n_images": 3
+   "updated_at": "2026-09-17T08:25:00.000Z"
   }
  ],
  "processed_issues": {
