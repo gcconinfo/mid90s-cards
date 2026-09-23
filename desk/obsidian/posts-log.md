@@ -1,15 +1,16 @@
 ---
 tags: [mid90s, auto]
-updated: 2026-09-23 19:43
+updated: 2026-09-23 21:46
 ---
 > 自動生成（投稿ルーティンが毎時36分ごろ更新 → Mac のスケジュールタスクが Vault に取り込む）。手で編集しない。決定や考えは [[Mid 90s Club]] に書く。
 
 # 投稿ログ（@golfpostjp）
 
-投稿数: 16
+投稿数: 17
 
 ## 2026-09
 
+- 2026-09-23 21:45 · 珍ネタ · AIがスイングを再現、韓国発ゴルフロボット · [Instagram](https://www.instagram.com/p/DdoVxWdHC0n/) · [グローバルエコノミック](https://www.g-enews.com/article/General-News/2026/09/202609111115389702daecd3dad5_1) · 写真2枚 · `20260918-02`
 - 2026-09-22 23:46 · STYLE · ソウル発sunlovetour×NB、Minimusで第2弾 · [Instagram](https://www.instagram.com/p/Ddl-12KHIR3/) · [Hypebeast](https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info) · テキスト型 · `20260914-10`
 - 2026-09-21 22:44 · 珍ネタ · 「ダサいパンツ」で20年、完売のチャリティコンペ · [Instagram](https://www.instagram.com/p/DdjS87tGzai/) · [FOX 9](https://www.fox9.com/news/20th-annual-ian-leonard-bad-pants-open-2026-golf-tournament) · 写真3枚 · `20260916-06`
 - 2026-09-21 01:47 · CULTURE · ベイル、ハンデ1.1でオーバーグと同組 · [Instagram](https://www.instagram.com/p/DdhDI6dIFS5/) · [DP World Tour](https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/tee-times-and-celebrities-for-2026-bmw-pga-championship-pro-am/) · 写真2枚 · `20260916-04`
