@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T07:43+09:00",
+ "generated_at": "2026-09-24T08:42+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -17,7 +17,6 @@
  "new": [
   {
    "id": "20260923-07",
-   "version": 1,
    "title": "MGI Golf、UNLVゴルフ部の電動キャディに",
    "status": "new",
    "type": "D",
@@ -27,12 +26,10 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-10/mgi-golf-named-exclusive-electric-caddy-partner-of-unlv-mens-and-womens-golf-programs",
    "found_on": "2026-09-23",
    "mode": "text",
-   "headline_photo": "電動キャディが\nUNLVと提携",
-   "n_images": 0
+   "headline_photo": "電動キャディが\nUNLVと提携"
   },
   {
    "id": "20260923-06",
-   "version": 1,
    "title": "スリクソン、新ドライバー「ZXi RKT」発売",
    "status": "new",
    "type": "D",
@@ -47,7 +44,6 @@
   },
   {
    "id": "20260923-05",
-   "version": 1,
    "title": "ヴェッセル×カリー・ブランド、高級ゴルフバッグ",
    "status": "new",
    "type": "C",
@@ -62,7 +58,6 @@
   },
   {
    "id": "20260923-04",
-   "version": 1,
    "title": "「ノイズレスデザイン」新シリーズ全10型",
    "status": "new",
    "type": "C",
@@ -77,7 +72,6 @@
   },
   {
    "id": "20260923-03",
-   "version": 1,
    "title": "ルーキーへの洗礼は、非公開のカラオケ大会",
    "status": "new",
    "type": "B",
@@ -87,12 +81,10 @@
    "source_url": "https://golf.com/news/2026-presidents-cup-what-weve-learned/",
    "found_on": "2026-09-23",
    "mode": "ai",
-   "headline_photo": "ルーキーの\nカラオケ洗礼",
-   "n_images": 0
+   "headline_photo": "ルーキーの\nカラオケ洗礼"
   },
   {
    "id": "20260923-02",
-   "version": 1,
    "title": "誤球を取り違え、5年間の出場停止処分",
    "status": "new",
    "type": "B",
@@ -102,12 +94,10 @@
    "source_url": "https://golf.com/news/amateur-someone-saw-cheat-banned/",
    "found_on": "2026-09-23",
    "mode": "ai",
-   "headline_photo": "誤球を隠し\n5年間出場停止",
-   "n_images": 0
+   "headline_photo": "誤球を隠し\n5年間出場停止"
   },
   {
    "id": "20260923-01",
-   "version": 1,
    "title": "最終日65で4打差逆転、初優勝でツアー切符",
    "status": "new",
    "type": "A",
@@ -117,12 +107,10 @@
    "source_url": "https://sports.yahoo.com/articles/sandy-scott-wins-korn-ferry-225725626.html",
    "found_on": "2026-09-23",
    "mode": "ai",
-   "headline_photo": "4打差から\n65で逆転優勝",
-   "n_images": 0
+   "headline_photo": "4打差から\n65で逆転優勝"
   },
   {
    "id": "20260922-05",
-   "version": 1,
    "title": "女子版TGL「WTGL」、11月開幕へ",
    "status": "new",
    "type": "D",
@@ -137,7 +125,6 @@
   },
   {
    "id": "20260922-04",
-   "version": 1,
    "title": "キャロウェイ×CLUBHAUS第3弾",
    "status": "new",
    "type": "C",
@@ -152,7 +139,6 @@
   },
   {
    "id": "20260922-03",
-   "version": 1,
    "title": "ゼロハリ×UAゴルフ、コラボ第4弾",
    "status": "new",
    "type": "C",
@@ -167,7 +153,6 @@
   },
   {
    "id": "20260922-02",
-   "version": 1,
    "title": "夫婦そろって同じホールでエース",
    "status": "new",
    "type": "B",
@@ -177,12 +162,10 @@
    "source_url": "https://www.australiangolfdigest.com.au/news-you-may-have-missed-september-2026/",
    "found_on": "2026-09-22",
    "mode": "ai",
-   "headline_photo": "夫婦そろって\n同じ穴でまさかの一打",
-   "n_images": 0
+   "headline_photo": "夫婦そろって\n同じ穴でまさかの一打"
   },
   {
    "id": "20260922-01",
-   "version": 1,
    "title": "プロショップに車が激突、3人搬送",
    "status": "new",
    "type": "B",
@@ -197,7 +180,6 @@
   },
   {
    "id": "20260921-06",
-   "version": 1,
    "title": "A.P.C. GOLF×Cph/Golf、全18型が発売",
    "status": "new",
    "type": "C",
@@ -212,7 +194,6 @@
   },
   {
    "id": "20260921-05",
-   "version": 1,
    "title": "Sanrio Sports、2026秋冬の新作ゴルフウェア",
    "status": "new",
    "type": "C",
@@ -227,7 +208,6 @@
   },
   {
    "id": "20260921-04",
-   "version": 1,
    "title": "ペブルビーチ16番、名物の木が消えた",
    "status": "new",
    "type": "B",
@@ -242,7 +222,6 @@
   },
   {
    "id": "20260921-03",
-   "version": 1,
    "title": "佐久間朱莉、優勝の副賞は452万円の新車",
    "status": "new",
    "type": "B",
@@ -257,7 +236,6 @@
   },
   {
    "id": "20260921-02",
-   "version": 1,
    "title": "神谷そら、連覇目前でまさかの池ポチャ",
    "status": "new",
    "type": "B",
@@ -272,7 +250,6 @@
   },
   {
    "id": "20260921-01",
-   "version": 1,
    "title": "内藤寛太郎、史上最長22年で初V",
    "status": "new",
    "type": "A",
@@ -287,7 +264,6 @@
   },
   {
    "id": "20260920-08",
-   "version": 1,
    "title": "アマ世界大会、ターンベリーで開幕へ",
    "status": "new",
    "type": "D",
@@ -298,12 +274,10 @@
    "found_on": "2026-09-20",
    "mode": "photo",
    "headline_photo": "アマ世界大会\nターンベリーへ",
-   "video": null,
    "n_images": 1
   },
   {
    "id": "20260920-07",
-   "version": 1,
    "title": "TRUE、本社をゴルフ場に移転",
    "status": "new",
    "type": "D",
@@ -318,7 +292,6 @@
   },
   {
    "id": "20260920-06",
-   "version": 1,
    "title": "松井珠理奈、ゴルフデビュー",
    "status": "new",
    "type": "C",
@@ -333,7 +306,6 @@
   },
   {
    "id": "20260920-05",
-   "version": 1,
    "title": "ホンダ新型にキャディバッグ何個？",
    "status": "new",
    "type": "B",
@@ -348,7 +320,6 @@
   },
   {
    "id": "20260920-04",
-   "version": 1,
    "title": "金田久美子、ド派手キャディーバッグ",
    "status": "new",
    "type": "B",
@@ -363,7 +334,6 @@
   },
   {
    "id": "20260920-03",
-   "version": 1,
    "title": "17歳アマ、ドラコン女王を2連覇",
    "status": "new",
    "type": "B",
@@ -378,7 +348,6 @@
   },
   {
    "id": "20260920-02",
-   "version": 1,
    "title": "河本結、10番でOB3発の「10」",
    "status": "new",
    "type": "B",
@@ -393,7 +362,6 @@
   },
   {
    "id": "20260920-01",
-   "version": 1,
    "title": "山下美夢有、石川に1000万円を寄付",
    "status": "new",
    "type": "A",
@@ -408,7 +376,6 @@
   },
   {
    "id": "20260919-07",
-   "version": 1,
    "title": "マクレガー、ミニドライバー市場に参入",
    "status": "new",
    "type": "D",
@@ -423,7 +390,6 @@
   },
   {
    "id": "20260919-06",
-   "version": 1,
    "title": "BIG MAX×オーストリア代表、フルコレクションに",
    "status": "new",
    "type": "D",
@@ -438,7 +404,6 @@
   },
   {
    "id": "20260919-05",
-   "version": 1,
    "title": "Touch of Grace、秋冬新作ニット3型",
    "status": "new",
    "type": "C",
@@ -453,7 +418,6 @@
   },
   {
    "id": "20260919-04",
-   "version": 1,
    "title": "ジョニー・オー、Cal大男子ゴルフの新パートナー",
    "status": "new",
    "type": "C",
@@ -462,12 +426,10 @@
    "source_name": "First Call Golf",
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-09-17/industry-notes-thursday-september-17-2026",
    "found_on": "2026-09-19",
-   "mode": "text",
-   "n_images": 0
+   "mode": "text"
   },
   {
    "id": "20260919-03",
-   "version": 2,
    "title": "10歳、116ヤードのパー3でホールインワン",
    "status": "new",
    "type": "B",
@@ -477,12 +439,10 @@
    "source_url": "https://hoodline.com/2026/09/wooster-third-grader-aces-116-yard-hole-at-elms-country-club/",
    "found_on": "2026-09-19",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260919-02",
-   "version": 2,
    "title": "ワニをシチメンチョウの群れが追いかけた",
    "status": "new",
    "type": "B",
@@ -499,12 +459,10 @@
     "source_type": "media",
     "start": 0
    },
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260919-01",
-   "version": 1,
    "title": "ラウンド中にキャディ降板。直前は水上飛行機遊覧",
    "status": "new",
    "type": "B",
@@ -526,7 +484,6 @@
   },
   {
    "id": "20260918-07",
-   "version": 1,
    "title": "ゴルフ場の芝刈り、ロボットが担う",
    "status": "new",
    "type": "B",
@@ -541,7 +498,6 @@
   },
   {
    "id": "20260918-06",
-   "version": 1,
    "title": "パリ五輪会場、地下鉄工事で大改修",
    "status": "new",
    "type": "D",
@@ -556,7 +512,6 @@
   },
   {
    "id": "20260918-05",
-   "version": 1,
    "title": "「発砲事件」の正体はゴルフボールだった",
    "status": "new",
    "type": "B",
@@ -571,7 +526,6 @@
   },
   {
    "id": "20260918-04",
-   "version": 1,
    "title": "ラコステ×CLUBHAUSが限定コラボ",
    "status": "new",
    "type": "C",
@@ -586,7 +540,6 @@
   },
   {
    "id": "20260917-10",
-   "version": 1,
    "title": "ゼクシオ、2027年干支ボール「未」発売",
    "status": "new",
    "type": "B",
@@ -601,7 +554,6 @@
   },
   {
    "id": "20260917-09",
-   "version": 1,
    "title": "反町隆史、ランバンスポールの新アンバサダー",
    "status": "new",
    "type": "C",
@@ -616,7 +568,6 @@
   },
   {
    "id": "20260917-08",
-   "version": 1,
    "title": "窪塚洋介、特注グリーンフォークが話題",
    "status": "new",
    "type": "B",
@@ -631,7 +582,6 @@
   },
   {
    "id": "20260917-07",
-   "version": 2,
    "title": "PGAツアーアメリカズで58達成",
    "status": "new",
    "type": "B",
@@ -642,12 +592,10 @@
    "found_on": "2026-09-17",
    "mode": "ai",
    "headline_photo": "12アンダー58\nアップランズGCで新記録",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260917-06",
-   "version": 1,
    "title": "ベティナルディ×グースアイランド、限定パター",
    "status": "new",
    "type": "D",
@@ -662,7 +610,6 @@
   },
   {
    "id": "20260917-05",
-   "version": 1,
    "title": "MARK & LONA、スカルカモ新作13型",
    "status": "new",
    "type": "C",
@@ -677,7 +624,6 @@
   },
   {
    "id": "20260917-04",
-   "version": 1,
    "title": "テーラーメイド×UA、軍モノ着想の新作",
    "status": "new",
    "type": "C",
@@ -692,7 +638,6 @@
   },
   {
    "id": "20260917-03",
-   "version": 1,
    "title": "元プロ野球・今江敏晃、1ヶ月で66到達",
    "status": "new",
    "type": "B",
@@ -707,7 +652,6 @@
   },
   {
    "id": "20260917-02",
-   "version": 1,
    "title": "クマ出没、国スポ予選のゴルフ決勝中止",
    "status": "new",
    "type": "B",
@@ -722,7 +666,6 @@
   },
   {
    "id": "20260917-01",
-   "version": 1,
    "title": "山下美夢有、プレーオフ制し国内メジャー3冠",
    "status": "new",
    "type": "A",
@@ -737,7 +680,6 @@
   },
   {
    "id": "20260914-11",
-   "version": 2,
    "title": "米初の「歩ける屋内18ホール」、設計はファジオ",
    "status": "new",
    "type": "D",
@@ -747,12 +689,10 @@
    "source_url": "https://www.firstcallgolf.com/industry-news/release/2026-08-26/citygolf-usa-partners-with-fazio-design-to-build-americas-first-18-hole-indoor-golf-courses",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260914-09",
-   "version": 3,
    "title": "小川に入って考えていたらボールが動いた。1打罰。",
    "status": "new",
    "type": "B",
@@ -762,55 +702,43 @@
    "source_url": "https://www.golfmonthly.com/news/haotong-li-assessed-one-stroke-penalty-in-third-round-of-amgen-irish-open",
    "found_on": "2026-09-14",
    "mode": "ai",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   }
  ],
  "held": [
   {
    "id": "20260916-10",
-   "version": 3,
    "title": "ケビン・ハート×Fabletics、ゴルフ19型",
    "status": "held",
    "type": "C",
    "kicker": "9月15日発売、米・加・欧",
    "summary": "米アクティブウェアのFableticsが、長年のパートナーであるコメディアンのケビン・ハートとゴルフコレクション「Kevin Hart x Fabletics」を9月15日に発売。メンズ・ウィメンズ計19型で価格は29.95〜164.95ドル、サイズはXXS〜4X。色はブラック、ホワイト、カーキ、グリーン。メンズはポロ、クルーザージャケット、ゴルフショーツ、クォータージップフーディ、ジョガー。ウィメンズはハイウエストレギンス、スカート、ブラ内蔵タンク、ミニドレス。ハートの新しいシグネチャーロゴが初登場し、妻のエニコとビジネスパートナーのロン・\"ボス\"・エバーラインが出演するキャンペーン「Get Your Hart-On」も。販売はFableticsのサイトと米・カナダ・欧州の135店舗以上で、日本での販売の記載はなし。写真が取得できずテキスト型。",
-   "post_date": "",
-   "post_time": "",
    "source_name": "GlobeNewswire",
    "source_url": "https://www.globenewswire.com/news-release/2026/09/15/3362146/0/en/fabletics-and-kevin-hart-tee-up-a-fresh-take-on-golf-style.html",
    "found_on": "2026-09-16",
    "mode": "text",
    "headline_photo": "ケビン・ハートのゴルフ服\n全19型、米加欧で発売",
-   "error": "",
-   "updated_at": "2026-09-22T07:41:23.607Z",
-   "n_images": 0
+   "updated_at": "2026-09-22T07:41:23.607Z"
   },
   {
    "id": "20260916-09",
-   "version": 4,
    "title": "同時に打った2人の球がフェアウェイで衝突、処置は？",
    "status": "held",
    "type": "B",
    "kicker": "GDOルールQ&A",
    "summary": "フェアウェイとラフに分かれた2人が、お互いに自分の番だと思って同時に打ち、球同士がフェアウェイでぶつかった。GDOのルールQ&Aの答えは、無罰でそのままプレー。ジェネラルエリアで動いている球が動いている球（外的影響）に当たっても両者に罰はなく、止まった場所からあるがままに打つ（規則11.1a、11.1b）。2019年の規則改正以降は、安全を確認した上で先に打つ「レディーゴルフ」も推奨されている、という補足つき。記事の画像はイラストのためテキスト型。",
-   "post_date": "",
-   "post_time": "",
    "source_name": "GDO",
    "source_url": "https://lesson.golfdigest.co.jp/lesson/rules/article/194969/1/",
    "found_on": "2026-09-16",
    "mode": "ai",
    "headline_photo": "同時に打った球が衝突\n処置は「そのまま」",
-   "error": "",
-   "updated_at": "2026-09-21T06:41:41.250Z",
-   "n_images": 0
+   "updated_at": "2026-09-21T06:41:41.250Z"
   }
  ],
  "failed": [],
  "posted_recent": [
   {
    "id": "20260918-03",
-   "version": 3,
    "title": "HONMA×PATRICK、コラボ第2弾",
    "status": "posted",
    "type": "C",
@@ -825,14 +753,11 @@
    "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
    "ig_permalink": "https://www.instagram.com/p/Ddo34EPID4W/",
    "posted_at": "2026-09-23T17:43:14.000Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-18T03:45:43.380Z",
    "n_images": 3
   },
   {
    "id": "20260918-02",
-   "version": 3,
    "title": "AIがスイングを再現、韓国発ゴルフロボット",
    "status": "posted",
    "type": "B",
@@ -847,14 +772,11 @@
    "headline_photo": "AIがスイング再現\n韓国発ゴルフロボット",
    "ig_permalink": "https://www.instagram.com/p/DdoVxWdHC0n/",
    "posted_at": "2026-09-23T12:45:02+00:00",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-23T12:45:02.000Z",
    "n_images": 2
   },
   {
    "id": "20260914-10",
-   "version": 3,
    "title": "ソウル発sunlovetour×NB、Minimusで第2弾",
    "status": "posted",
    "type": "C",
@@ -868,14 +790,10 @@
    "mode": "text",
    "ig_permalink": "https://www.instagram.com/p/Ddl-12KHIR3/",
    "posted_at": "2026-09-22T14:46:16Z",
-   "error": "",
-   "video_error": "",
-   "updated_at": "2026-09-16T13:26:55.359Z",
-   "n_images": 0
+   "updated_at": "2026-09-16T13:26:55.359Z"
   },
   {
    "id": "20260916-06",
-   "version": 3,
    "title": "「ダサいパンツ」で20年、完売のチャリティコンペ",
    "status": "posted",
    "type": "B",
@@ -890,14 +808,11 @@
    "headline_photo": "ダサいパンツで20年\n10万ドル超のチャリティ",
    "ig_permalink": "https://www.instagram.com/p/DdjS87tGzai/",
    "posted_at": "2026-09-21T13:44:17Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-21T13:44:20Z",
    "n_images": 3
   },
   {
    "id": "20260916-04",
-   "version": 4,
    "title": "ベイル、ハンデ1.1でオーバーグと同組",
    "status": "posted",
    "type": "D",
@@ -920,14 +835,12 @@
    },
    "ig_permalink": "https://www.instagram.com/p/DdhDI6dIFS5/",
    "posted_at": "2026-09-20T16:47:37Z",
-   "error": "",
    "video_error": "記事動画（YouTube）の取得失敗: bot確認でブロック（yt-dlp: Sign in to confirm you’re not a bot）",
    "updated_at": "2026-09-16T08:59:28.585Z",
    "n_images": 2
   },
   {
    "id": "20260914-02",
-   "version": 6,
    "title": "夫婦で同じ9番ホールにホールインワン、妻の一打はアルバトロスでもあった",
    "status": "posted",
    "type": "B",
@@ -941,14 +854,10 @@
    "mode": "text",
    "ig_permalink": "https://www.instagram.com/p/DdhDCf3nCJ5/",
    "posted_at": "2026-09-20T16:46:44Z",
-   "error": "",
-   "video_error": "",
-   "updated_at": "2026-09-19T05:20:00.000Z",
-   "n_images": 0
+   "updated_at": "2026-09-19T05:20:00.000Z"
   },
   {
    "id": "20260915-19",
-   "version": 4,
    "title": "LIVゴルフが破産法申請、次は選手がオーナーに",
    "status": "posted",
    "type": "D",
@@ -963,14 +872,11 @@
    "headline_photo": "LIVゴルフが破産法申請\n次は選手がオーナーに",
    "ig_permalink": "https://www.instagram.com/p/DdeQFf_oKLH/",
    "posted_at": "2026-09-19T14:43:01.000Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T13:21:39.556Z",
    "n_images": 1
   },
   {
    "id": "20260915-14",
-   "version": 4,
    "title": "キャロウェイ×CLUBHAUS第3弾、90年代ビッグバーサ柄",
    "status": "posted",
    "type": "C",
@@ -985,14 +891,11 @@
    "headline_photo": "キャロウェイ×CLUBHAUS\n90年代ビッグバーサ柄",
    "ig_permalink": "https://www.instagram.com/p/DdeCeUBoPuL/",
    "posted_at": "2026-09-19T12:44:05Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T10:00:05.719Z",
    "n_images": 3
   },
   {
    "id": "20260915-11",
-   "version": 5,
    "title": "「勝てたら500ドル」名門クラブ前でヒッチハイク",
    "status": "posted",
    "type": "B",
@@ -1007,14 +910,10 @@
    "headline_photo": "「勝てたら500ドル」\n名門クラブ前でヒッチハイク",
    "ig_permalink": "https://www.instagram.com/p/DdbrhlmG5b8/",
    "posted_at": "2026-09-18T14:45:04Z",
-   "error": "",
-   "video_error": "",
-   "updated_at": "2026-09-18T14:45:04Z",
-   "n_images": 0
+   "updated_at": "2026-09-18T14:45:04Z"
   },
   {
    "id": "20260915-09",
-   "version": 4,
    "title": "ヴィンテージのオークリーのバッグが、ジャケットに",
    "status": "posted",
    "type": "C",
@@ -1029,8 +928,6 @@
    "headline_photo": "ヴィンテージのオークリー\nゴルフバッグがジャケットに",
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
-   "error": "",
-   "video_error": "",
    "updated_at": "2026-09-15T09:59:30.182Z",
    "n_images": 3
   }
