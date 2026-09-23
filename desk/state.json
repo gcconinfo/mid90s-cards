@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T22:45+09:00",
+ "generated_at": "2026-09-24T02:44+09:00",
  "handle": "@golfpostjp",
  "post_time": "21:00",
  "interval_min": 120,
@@ -10,29 +10,10 @@
  "counts": {
   "new": 49,
   "held": 2,
-  "approved": 1,
+  "approved": 0,
   "failed": 0
  },
- "approved": [
-  {
-   "id": "20260918-03",
-   "version": 2,
-   "title": "HONMA×PATRICK、コラボ第2弾",
-   "status": "approved",
-   "type": "C",
-   "kicker": "前作完売、9月18日発売",
-   "summary": "本間ゴルフとフランスのスニーカーブランド、パトリックのコラボ第2弾が9月18日発売。前作のミニトートバッグは発売から約3カ月で完売した。キャディバッグはスタンドからカート型に変更、トートバッグは大型化。カラーはネイビーとホワイトの2色。",
-   "post_date": "2026-09-23",
-   "post_time": "23:00",
-   "source_name": "本間ゴルフ",
-   "source_url": "https://www.golfdigest-minna.jp/_ct/17864789",
-   "found_on": "2026-09-18",
-   "mode": "photo",
-   "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
-   "updated_at": "2026-09-18T03:45:43.380Z",
-   "n_images": 3
-  }
- ],
+ "approved": [],
  "new": [
   {
    "id": "20260923-07",
@@ -821,6 +802,26 @@
  "failed": [],
  "posted_recent": [
   {
+   "id": "20260918-03",
+   "version": 3,
+   "title": "HONMA×PATRICK、コラボ第2弾",
+   "status": "posted",
+   "type": "C",
+   "kicker": "前作完売、9月18日発売",
+   "summary": "本間ゴルフとフランスのスニーカーブランド、パトリックのコラボ第2弾が9月18日発売。前作のミニトートバッグは発売から約3カ月で完売した。キャディバッグはスタンドからカート型に変更、トートバッグは大型化。カラーはネイビーとホワイトの2色。",
+   "post_date": "2026-09-23",
+   "post_time": "23:00",
+   "source_name": "本間ゴルフ",
+   "source_url": "https://www.golfdigest-minna.jp/_ct/17864789",
+   "found_on": "2026-09-18",
+   "mode": "photo",
+   "headline_photo": "前作は3カ月完売\n第2弾は9月18日発売",
+   "ig_permalink": "https://www.instagram.com/p/Ddo34EPID4W/",
+   "posted_at": "2026-09-23T17:43:14.000Z",
+   "updated_at": "2026-09-18T03:45:43.380Z",
+   "n_images": 3
+  },
+  {
    "id": "20260918-02",
    "version": 3,
    "title": "AIがスイングを再現、韓国発ゴルフロボット",
@@ -1005,26 +1006,6 @@
    "ig_permalink": "https://www.instagram.com/p/Ddbd6lOG0bD/",
    "posted_at": "2026-09-18T12:46:08Z",
    "updated_at": "2026-09-15T09:59:30.182Z",
-   "n_images": 3
-  },
-  {
-   "id": "20260915-06",
-   "version": 4,
-   "title": "少女時代スヨン×KISS ON THE GREEN、初コラボ",
-   "status": "posted",
-   "type": "C",
-   "kicker": "9月19日予約開始、2型",
-   "summary": "少女時代のスヨンがブランドアンバサダーを務めるゴルフウェアブランドKISS ON THE GREEN（丸山木材ホールディングス）が、スヨンと作ったコラボ第1弾を9月19日から予約販売。Vネックのロングスリーブニットポロ1万9600円と、インナーパンツ一体型のAラインプリーツニットスカート1万9000円の2型、各ネイビー／オフホワイト、XS〜L。公式オンライン、楽天市場、Yahoo!ショッピングで販売。スヨンの名前から生まれたキャラクター「Soo」のノベルティ付きで、購入者30名を10月31日のスヨン来場イベントに招待。",
-   "post_date": "2026-09-17",
-   "post_time": "23:00",
-   "source_name": "PR TIMES（丸山木材ホールディングス）",
-   "source_url": "https://prtimes.jp/main/html/rd/p/000000053.000074642.html",
-   "found_on": "2026-09-15",
-   "mode": "photo",
-   "headline_photo": "少女時代スヨンが初コラボ\nKISS ON THE GREEN",
-   "ig_permalink": "https://www.instagram.com/p/DdZGbshHMmh/",
-   "posted_at": "2026-09-17T14:42:28+00:00",
-   "updated_at": "2026-09-15T09:59:12.145Z",
    "n_images": 3
   }
  ],
